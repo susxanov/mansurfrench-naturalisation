@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "situation_001",
+    "collection": "mise_en_situation",
+    "source_question_id": 2,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Une situation se présente sur votre lieu de travail. Quelle règle devez-vous appliquer ?\n\nDans le cadre d'un entretien d'embauche, que peut-on demander au candidat ?",
+    "question_ru": "На работе возникла практическая ситуация. Какое правило необходимо применить?\n\nКакие сведения разрешено запрашивать у кандидата во время собеседования при приёме на работу?",
+    "options": [
+      {
+        "fr": "Ses opinions politiques",
+        "ru": "Его политические взгляды"
+      },
+      {
+        "fr": "Ses convictions religieuses",
+        "ru": "Его религиозные убеждения"
+      },
+      {
+        "fr": "Des informations directement liées au poste et aux compétences du candidat",
+        "ru": "Сведения, связанные с должностью и навыками кандидата"
+      },
+      {
+        "fr": "Ses projets de grossesse",
+        "ru": "Его планы, связанные с беременностью"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Des informations directement liées au poste et aux compétences du candidat",
+    "answer_ru": "Сведения, непосредственно связанные с должностью и профессиональными навыками кандидата",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №2. Правильный ответ: Сведения, непосредственно связанные с должностью и профессиональными навыками кандидата",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 2,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_002",
+    "collection": "mise_en_situation",
+    "source_question_id": 3,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nDéclarer ses revenus aux services fiscaux est :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nДекларировать свои доходы в налоговой службе — это:",
+    "options": [
+      {
+        "fr": "Une obligation",
+        "ru": "Обязанность"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Une obligation",
+    "answer_ru": "Обязанность",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №3. Правильный ответ: Обязанность",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 3,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_003",
+    "collection": "mise_en_situation",
+    "source_question_id": 4,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEn France, les impôts permettent de financer les dépenses publiques. Quelle proposition est correcte ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nВо Франции налоги используются для финансирования государственных расходов. Какое утверждение верно?",
+    "options": [
+      {
+        "fr": "Ils financent les services publics et les dépenses collectives",
+        "ru": "Они финансируют государственные службы и общественные расходы"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Ils financent les services publics et les dépenses collectives",
+    "answer_ru": "Они финансируют государственные службы и общественные расходы",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №4. Правильный ответ: Они финансируют государственные службы и общественные расходы",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 4,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_004",
+    "collection": "mise_en_situation",
+    "source_question_id": 5,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLa liberté d'association est :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nСвобода объединений — это:",
+    "options": [
+      {
+        "fr": "Un principe fondamental régi notamment par la loi de 1901",
+        "ru": "Основополагающий принцип, регулируемый, в частности, законом 1901 года"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Un principe fondamental régi notamment par la loi de 1901",
+    "answer_ru": "Основополагающий принцип, регулируемый, в частности, законом 1901 года",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №5. Правильный ответ: Основополагающий принцип, регулируемый, в частности, законом 1901 года",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 5,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_005",
+    "collection": "mise_en_situation",
+    "source_question_id": 6,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLa liberté d'expression sur les réseaux sociaux en France est :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nСвобода выражения мнения в социальных сетях во Франции:",
+    "options": [
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Libre, mais encadrée par la loi",
+        "ru": "Свободна, но ограничена законом"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Libre, mais encadrée par la loi",
+    "answer_ru": "Свободна, но ограничена законом",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №6. Правильный ответ: Свободна, но ограничена законом",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 6,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_006",
+    "collection": "mise_en_situation",
+    "source_question_id": 7,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLequel de ces prénoms évoque un symbole de la République ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакое из этих имён связано с символом Республики?",
+    "options": [
+      {
+        "fr": "Marianne",
+        "ru": "Марианна"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Louis XIV",
+        "ru": "Людовик XIV"
+      },
+      {
+        "fr": "Jules Ferry",
+        "ru": "Жюль Ферри"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Marianne",
+    "answer_ru": "Марианна",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №7. Правильный ответ: Марианна",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 7,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_007",
+    "collection": "mise_en_situation",
+    "source_question_id": 8,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLequel de ces symboles représente la République française ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакой из этих символов представляет Французскую Республику?",
+    "options": [
+      {
+        "fr": "La rose Tudor",
+        "ru": "Роза Тюдоров"
+      },
+      {
+        "fr": "Le trèfle",
+        "ru": "Клевер"
+      },
+      {
+        "fr": "Marianne",
+        "ru": "Марианна"
+      },
+      {
+        "fr": "La feuille d'érable",
+        "ru": "Кленовый лист"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Marianne",
+    "answer_ru": "Марианна",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №8. Правильный ответ: Марианна",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 8,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_008",
+    "collection": "mise_en_situation",
+    "source_question_id": 9,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nOù peut-on voir la devise de la République ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nГде можно увидеть девиз Республики?",
+    "options": [
+      {
+        "fr": "La Manche",
+        "ru": "Ла-Манш"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Sur les bâtiments publics, notamment les mairies",
+        "ru": "На государственных зданиях, в частности на мэриях"
+      },
+      {
+        "fr": "La Méditerranée",
+        "ru": "Средиземное море"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Sur les bâtiments publics, notamment les mairies",
+    "answer_ru": "На государственных зданиях, в частности на мэриях",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №9. Правильный ответ: На государственных зданиях, в частности на мэриях",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 9,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_009",
+    "collection": "mise_en_situation",
+    "source_question_id": 10,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLesquels sont des symboles officiels de la République française ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакие из перечисленных символов являются официальными символами Французской Республики?",
+    "options": [
+      {
+        "fr": "Le drapeau tricolore, La Marseillaise et « Liberté, Égalité, Fraternité »",
+        "ru": "Трёхцветный флаг, «Марсельеза» и девиз"
+      },
+      {
+        "fr": "La Tour Eiffel, le béret et la baguette",
+        "ru": "Эйфелева башня, берет и багет"
+      },
+      {
+        "fr": "Le drapeau européen, l'euro et l'Ode à la joie",
+        "ru": "Флаг ЕС, евро и «Ода к радости»"
+      },
+      {
+        "fr": "La fleur de lys, la couronne et le sceptre",
+        "ru": "Лилия, корона и скипетр"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Le drapeau tricolore, La Marseillaise et « Liberté, Égalité, Fraternité »",
+    "answer_ru": "Трёхцветный флаг, «Марсельеза» и девиз «Свобода, равенство, братство»",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №10. Правильный ответ: Трёхцветный флаг, «Марсельеза» и девиз «Свобода, равенство, братство»",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 10,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_010",
+    "collection": "mise_en_situation",
+    "source_question_id": 11,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nPeut-on brûler publiquement un drapeau français ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nМожно ли публично сжечь французский флаг?",
+    "options": [
+      {
+        "fr": "Oui, sans aucune condition",
+        "ru": "Да, без каких-либо условий"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Cela dépend uniquement de la décision de l'employeur",
+        "ru": "Это зависит только от решения работодателя"
+      },
+      {
+        "fr": "Non, l'outrage public au drapeau est sanctionné par la loi",
+        "ru": "Нет, публичное надругательство над флагом наказывается законом"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Non, l'outrage public au drapeau est sanctionné par la loi",
+    "answer_ru": "Нет, публичное надругательство над флагом наказывается законом",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №11. Правильный ответ: Нет, публичное надругательство над флагом наказывается законом",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 11,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_011",
+    "collection": "mise_en_situation",
+    "source_question_id": 12,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuand la sécurité sociale a-t-elle été établie en France ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКогда во Франции была создана система социального обеспечения?",
+    "options": [
+      {
+        "fr": "En 1945",
+        "ru": "В 1945 году"
+      },
+      {
+        "fr": "1958",
+        "ru": "1958 год"
+      },
+      {
+        "fr": "1962",
+        "ru": "1962 год"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "En 1945",
+    "answer_ru": "В 1945 году",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №12. Правильный ответ: В 1945 году",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 12,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_012",
+    "collection": "mise_en_situation",
+    "source_question_id": 13,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue commémore la fête nationale ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто отмечает национальный праздник Франции?",
+    "options": [
+      {
+        "fr": "La prise de la Bastille et la Fête de la Fédération",
+        "ru": "Взятие Бастилии и Праздник Федерации"
+      },
+      {
+        "fr": "La création de la Ve République",
+        "ru": "Создание Пятой республики"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "L'abolition de l'esclavage",
+        "ru": "Отмена рабства"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "La prise de la Bastille et la Fête de la Fédération",
+    "answer_ru": "Взятие Бастилии и Праздник Федерации",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №13. Правильный ответ: Взятие Бастилии и Праздник Федерации",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 13,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_013",
+    "collection": "mise_en_situation",
+    "source_question_id": 14,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue porte Marianne sur la tête ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто носит Марианна на голове?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Un bonnet phrygien",
+        "ru": "Фригийский колпак"
+      },
+      {
+        "fr": "Une couronne royale",
+        "ru": "Королевская корона"
+      },
+      {
+        "fr": "Un casque militaire",
+        "ru": "Военный шлем"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Un bonnet phrygien",
+    "answer_ru": "Фригийский колпак",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №14. Правильный ответ: Фригийский колпак",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 14,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_014",
+    "collection": "mise_en_situation",
+    "source_question_id": 15,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue signifie le mot \"fraternité\" dans la devise française ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто означает слово «братство» во французском девизе?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "La solidarité et l'entraide entre les membres de la société",
+        "ru": "Солидарность и взаимопомощь между членами общества"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "La solidarité et l'entraide entre les membres de la société",
+    "answer_ru": "Солидарность и взаимопомощь между членами общества",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №15. Правильный ответ: Солидарность и взаимопомощь между членами общества",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 15,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_015",
+    "collection": "mise_en_situation",
+    "source_question_id": 16,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuel symbole de la République peut-on voir sur les maillots de l'équipe de France de football ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакой символ Республики можно увидеть на форме сборной Франции по футболу?",
+    "options": [
+      {
+        "fr": "La fleur de lys",
+        "ru": "Геральдическая лилия"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Le coq gaulois",
+        "ru": "Галльский петух"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le coq gaulois",
+    "answer_ru": "Галльский петух",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №16. Правильный ответ: Галльский петух",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 16,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_016",
+    "collection": "mise_en_situation",
+    "source_question_id": 17,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuelle est la devise de la République française ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКаков девиз Французской Республики?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Unie dans la diversité",
+        "ru": "Единство в многообразии"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Liberté, Égalité, Fraternité",
+        "ru": "Свобода, равенство, братство"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Liberté, Égalité, Fraternité",
+    "answer_ru": "Свобода, равенство, братство",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №17. Правильный ответ: Свобода, равенство, братство",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 17,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_017",
+    "collection": "mise_en_situation",
+    "source_question_id": 18,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce que la liberté d'association ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое свобода объединений?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Le droit de créer ou de rejoindre une association",
+        "ru": "Право создавать объединение или вступать в него"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le droit de créer ou de rejoindre une association",
+    "answer_ru": "Право создавать объединение или вступать в него",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №18. Правильный ответ: Право создавать объединение или вступать в него",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 18,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_018",
+    "collection": "mise_en_situation",
+    "source_question_id": 19,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce qu'une liberté ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое свобода?",
+    "options": [
+      {
+        "fr": "La possibilité d'agir dans le respect de la loi et des droits d'autrui",
+        "ru": "Возможность действовать с соблюдением закона и прав других людей"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "La possibilité d'agir dans le respect de la loi et des droits d'autrui",
+    "answer_ru": "Возможность действовать с соблюдением закона и прав других людей",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №19. Правильный ответ: Возможность действовать с соблюдением закона и прав других людей",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 19,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_019",
+    "collection": "mise_en_situation",
+    "source_question_id": 20,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nSelon la constitution, la France est une République ...",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nСогласно Конституции, Франция является Республикой…",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Indivisible, laïque, démocratique et sociale",
+        "ru": "Неделимой, светской, демократической и социальной"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Indivisible, laïque, démocratique et sociale",
+    "answer_ru": "Неделимой, светской, демократической и социальной",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №20. Правильный ответ: Неделимой, светской, демократической и социальной",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 20,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_020",
+    "collection": "mise_en_situation",
+    "source_question_id": 21,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nSur quel document peut-on voir Marianne ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nНа каком документе можно увидеть изображение Марианны?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Sur la carte électorale",
+        "ru": "На избирательной карте"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Sur la carte électorale",
+    "answer_ru": "На избирательной карте",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №21. Правильный ответ: На избирательной карте",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 21,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_021",
+    "collection": "mise_en_situation",
+    "source_question_id": 22,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nUne des valeurs de la devise républicaine est l'Égalité. Qu'est-ce que cela signifie ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nОдна из ценностей республиканского девиза — равенство. Что это означает?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "La loi est la même pour tous et chacun a les mêmes droits",
+        "ru": "Закон одинаков для всех, и каждый имеет равные права"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "La loi est la même pour tous et chacun a les mêmes droits",
+    "answer_ru": "Закон одинаков для всех, и каждый имеет равные права",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №22. Правильный ответ: Закон одинаков для всех, и каждый имеет равные права",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 22,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_022",
+    "collection": "mise_en_situation",
+    "source_question_id": 23,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans un service public, une discussion porte sur la religion et la laïcité. Quelle réponse respecte les principes de la République ?\n\nUne personne peut-elle changer librement de religion en France ?",
+    "question_ru": "В государственной службе обсуждаются религия и светскость. Какой ответ соответствует принципам Республики?\n\nМожет ли человек во Франции свободно сменить религию?",
+    "options": [
+      {
+        "fr": "Non",
+        "ru": "Нет"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Oui, uniquement pour les citoyens français",
+        "ru": "Да, только для граждан Франции"
+      },
+      {
+        "fr": "Oui, chacun est libre de croire, de ne pas croire ou de changer de religion",
+        "ru": "Да, каждый свободен верить, не верить или менять религию"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Oui, chacun est libre de croire, de ne pas croire ou de changer de religion",
+    "answer_ru": "Да, каждый свободен верить, не верить или менять религию",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №23. Правильный ответ: Да, каждый свободен верить, не верить или менять религию",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 23,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_023",
+    "collection": "mise_en_situation",
+    "source_question_id": 24,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans un service public, une discussion porte sur la religion et la laïcité. Quelle réponse respecte les principes de la République ?\n\nSelon le principe de laïcité, que signifie la neutralité de l'état ?",
+    "question_ru": "В государственной службе обсуждаются религия и светскость. Какой ответ соответствует принципам Республики?\n\nЧто означает нейтральность государства согласно принципу светскости?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "L'État ne favorise aucune religion et les traite de manière impartiale",
+        "ru": "Государство не отдаёт предпочтения ни одной религии и относится к ним беспристрастно"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "L'État ne favorise aucune religion et les traite de manière impartiale",
+    "answer_ru": "Государство не отдаёт предпочтения ни одной религии и относится к ним беспристрастно",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №24. Правильный ответ: Государство не отдаёт предпочтения ни одной религии и относится к ним беспристрастно",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 24,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_024",
+    "collection": "mise_en_situation",
+    "source_question_id": 25,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Vous vous rendez dans une mairie pour effectuer une démarche. L'agent vous pose la question suivante. Quelle réponse est correcte ?\n\nQue peut faire un usager du service public dans une mairie ?",
+    "question_ru": "Вы пришли в мэрию для административной процедуры. Сотрудник задаёт следующий вопрос. Какой ответ верен?\n\nКакие действия может совершить посетитель государственной службы в мэрии?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Effectuer des démarches d'état civil ou s'inscrire sur les listes électorales",
+        "ru": "Совершать действия по регистрации актов гражданского состояния или записываться в списки избирателей"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Effectuer des démarches d'état civil ou s'inscrire sur les listes électorales",
+    "answer_ru": "Совершать действия по регистрации актов гражданского состояния или записываться в списки избирателей",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №25. Правильный ответ: Совершать действия по регистрации актов гражданского состояния или записываться в списки избирателей",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 25,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_025",
+    "collection": "mise_en_situation",
+    "source_question_id": 26,
+    "section_fr": "Principes et valeurs de la République",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEn France, il est possible pour l'État de financer :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто государство во Франции может финансировать?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Les services publics et des actions d'intérêt général",
+        "ru": "Государственные службы и деятельность в общественных интересах"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Les services publics et des actions d'intérêt général",
+    "answer_ru": "Государственные службы и деятельность в общественных интересах",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №26. Правильный ответ: Государственные службы и деятельность в общественных интересах",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 26,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_026",
+    "collection": "mise_en_situation",
+    "source_question_id": 39,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nComment est désigné le Premier ministre ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКак назначается премьер-министр?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Il est nommé par le Président de la République",
+        "ru": "Он назначается Президентом Республики"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Il est nommé par le Président de la République",
+    "answer_ru": "Он назначается Президентом Республики",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №39. Правильный ответ: Он назначается Президентом Республики",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 39,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_027",
+    "collection": "mise_en_situation",
+    "source_question_id": 40,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQui peut se présenter aux élections présidentielles ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКто может выдвинуть свою кандидатуру на президентских выборах?",
+    "options": [
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Un citoyen français majeur remplissant les conditions légales, notamment les 500 parrainages",
+        "ru": "Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Un citoyen français majeur remplissant les conditions légales, notamment les 500 parrainages",
+    "answer_ru": "Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №40. Правильный ответ: Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 40,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_028",
+    "collection": "mise_en_situation",
+    "source_question_id": 41,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nÀ qui appartient la souveraineté nationale ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКому принадлежит национальный суверенитет?",
+    "options": [
+      {
+        "fr": "Le Président de la République",
+        "ru": "Президент Республики"
+      },
+      {
+        "fr": "Le Conseil constitutionnel",
+        "ru": "Конституционный совет"
+      },
+      {
+        "fr": "Le préfet",
+        "ru": "Префект"
+      },
+      {
+        "fr": "Au peuple",
+        "ru": "Народу"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Au peuple",
+    "answer_ru": "Народу",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №41. Правильный ответ: Народу",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 41,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_029",
+    "collection": "mise_en_situation",
+    "source_question_id": 42,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQui est élu lors des élections municipales ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКого избирают на муниципальных выборах?",
+    "options": [
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Le département",
+        "ru": "Департамент"
+      },
+      {
+        "fr": "Le Conseil constitutionnel",
+        "ru": "Конституционный совет"
+      },
+      {
+        "fr": "Les conseillers municipaux",
+        "ru": "Муниципальных советников"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Les conseillers municipaux",
+    "answer_ru": "Муниципальных советников",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №42. Правильный ответ: Муниципальных советников",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 42,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_030",
+    "collection": "mise_en_situation",
+    "source_question_id": 43,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Vous vous rendez dans une mairie pour effectuer une démarche. L'agent vous pose la question suivante. Quelle réponse est correcte ?\n\nL'inscription sur les listes électorales est :",
+    "question_ru": "Вы пришли в мэрию для административной процедуры. Сотрудник задаёт следующий вопрос. Какой ответ верен?\n\nРегистрация в списках избирателей является:",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Nécessaire pour pouvoir voter",
+        "ru": "Необходимой для участия в голосовании"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Nécessaire pour pouvoir voter",
+    "answer_ru": "Необходимой для участия в голосовании",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №43. Правильный ответ: Необходимой для участия в голосовании",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 43,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_031",
+    "collection": "mise_en_situation",
+    "source_question_id": 44,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelle condition est nécessaire pour voter aux élections présidentielles ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКакое условие необходимо для голосования на президентских выборах?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Être français, majeur, inscrit sur les listes électorales et jouir de ses droits civiques",
+        "ru": "Быть гражданином Франции, совершеннолетним, зарегистрированным в списках избирателей и обладать гражданскими правами"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Être français, majeur, inscrit sur les listes électorales et jouir de ses droits civiques",
+    "answer_ru": "Быть гражданином Франции, совершеннолетним, зарегистрированным в списках избирателей и обладать гражданскими правами",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №44. Правильный ответ: Быть гражданином Франции, совершеннолетним, зарегистрированным в списках избирателей и обладать гражданскими правами",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 44,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_032",
+    "collection": "mise_en_situation",
+    "source_question_id": 45,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelle condition faut-il remplir pour être candidat aux élections municipales ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКакое условие нужно выполнить, чтобы стать кандидатом на муниципальных выборах?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Être majeur et français ou citoyen de l'Union européenne, selon les conditions légales",
+        "ru": "Быть совершеннолетним гражданином Франции или ЕС при соблюдении законных условий"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Être majeur et français ou citoyen de l'Union européenne, selon les conditions légales",
+    "answer_ru": "Быть совершеннолетним гражданином Франции или ЕС при соблюдении законных условий",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №45. Правильный ответ: Быть совершеннолетним гражданином Франции или ЕС при соблюдении законных условий",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 45,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_033",
+    "collection": "mise_en_situation",
+    "source_question_id": 46,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nParmi ces autorités, laquelle est élue ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКто из перечисленных представителей власти избирается?",
+    "options": [
+      {
+        "fr": "Le préfet",
+        "ru": "Префект"
+      },
+      {
+        "fr": "Le maire",
+        "ru": "Мэр"
+      },
+      {
+        "fr": "Le recteur d'académie",
+        "ru": "Ректор академии"
+      },
+      {
+        "fr": "L'ambassadeur",
+        "ru": "Посол"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le maire",
+    "answer_ru": "Мэр",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №46. Правильный ответ: Мэр",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 46,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_034",
+    "collection": "mise_en_situation",
+    "source_question_id": 47,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelles sont les fonctions du maire ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКаковы функции мэра?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Diriger la commune, exécuter les décisions du conseil municipal et veiller à l'ordre public",
+        "ru": "Руководить коммуной, исполнять решения муниципального совета и обеспечивать общественный порядок"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Diriger la commune, exécuter les décisions du conseil municipal et veiller à l'ordre public",
+    "answer_ru": "Руководить коммуной, исполнять решения муниципального совета и обеспечивать общественный порядок",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №47. Правильный ответ: Руководить коммуной, исполнять решения муниципального совета и обеспечивать общественный порядок",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 47,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_035",
+    "collection": "mise_en_situation",
+    "source_question_id": 48,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQui peut se présenter aux élections présidentielles ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКто может выдвинуть свою кандидатуру на президентских выборах?",
+    "options": [
+      {
+        "fr": "Un citoyen français majeur remplissant les conditions légales, notamment les 500 parrainages",
+        "ru": "Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Un citoyen français majeur remplissant les conditions légales, notamment les 500 parrainages",
+    "answer_ru": "Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №48. Правильный ответ: Совершеннолетний гражданин Франции, выполнивший законные условия, включая 500 подписей выборных лиц",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 48,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_036",
+    "collection": "mise_en_situation",
+    "source_question_id": 49,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Vous vous rendez dans une mairie pour effectuer une démarche. L'agent vous pose la question suivante. Quelle réponse est correcte ?\n\nUne personne, n'ayant pas d'accès à internet, veut s'inscrire sur les listes électorales pour pouvoir voter aux prochaines élections politiques. Où peut-elle s'inscrire ?",
+    "question_ru": "Вы пришли в мэрию для административной процедуры. Сотрудник задаёт следующий вопрос. Какой ответ верен?\n\nЧеловек без доступа к интернету хочет зарегистрироваться в списке избирателей. Куда ему обратиться?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "La Manche",
+        "ru": "Ла-Манш"
+      },
+      {
+        "fr": "À la mairie de la commune concernée",
+        "ru": "В мэрии соответствующей коммуны"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "À la mairie de la commune concernée",
+    "answer_ru": "В мэрии соответствующей коммуны",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №49. Правильный ответ: В мэрии соответствующей коммуны",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 49,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_037",
+    "collection": "mise_en_situation",
+    "source_question_id": 50,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nÀ quel âge peut-on devenir électeur ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nС какого возраста можно стать избирателем?",
+    "options": [
+      {
+        "fr": "À 21 ans",
+        "ru": "С 21 года"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "À 18 ans",
+        "ru": "С 18 лет"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "À 18 ans",
+    "answer_ru": "С 18 лет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №50. Правильный ответ: С 18 лет",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 50,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_038",
+    "collection": "mise_en_situation",
+    "source_question_id": 51,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nEn France, est-ce obligatoire de voter ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nОбязательно ли голосовать во Франции?",
+    "options": [
+      {
+        "fr": "Oui, sans aucune condition",
+        "ru": "Да, без каких-либо условий"
+      },
+      {
+        "fr": "Cela dépend uniquement de la décision de l'employeur",
+        "ru": "Это зависит только от решения работодателя"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Non, le vote n'est pas juridiquement obligatoire",
+        "ru": "Нет, голосование юридически не является обязательным"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Non, le vote n'est pas juridiquement obligatoire",
+    "answer_ru": "Нет, голосование юридически не является обязательным",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №51. Правильный ответ: Нет, голосование юридически не является обязательным",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 51,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_039",
+    "collection": "mise_en_situation",
+    "source_question_id": 52,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nA-t-on le droit de ne pas respecter une loi ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nИмеем ли мы право не соблюдать закон?",
+    "options": [
+      {
+        "fr": "Cela dépend uniquement de la décision de l'employeur",
+        "ru": "Это зависит только от решения работодателя"
+      },
+      {
+        "fr": "Non, chacun doit respecter les lois en vigueur",
+        "ru": "Нет, каждый обязан соблюдать действующие законы"
+      },
+      {
+        "fr": "Oui, sans aucune condition",
+        "ru": "Да, без каких-либо условий"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Non, chacun doit respecter les lois en vigueur",
+    "answer_ru": "Нет, каждый обязан соблюдать действующие законы",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №52. Правильный ответ: Нет, каждый обязан соблюдать действующие законы",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 52,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_040",
+    "collection": "mise_en_situation",
+    "source_question_id": 53,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nComment sont désignés les députés ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКак избираются депутаты Национального собрания?",
+    "options": [
+      {
+        "fr": "Au suffrage universel direct",
+        "ru": "Прямым всеобщим голосованием"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Au suffrage universel direct",
+    "answer_ru": "Прямым всеобщим голосованием",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №53. Правильный ответ: Прямым всеобщим голосованием",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 53,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_041",
+    "collection": "mise_en_situation",
+    "source_question_id": 54,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQui vote les lois ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nКто принимает законы?",
+    "options": [
+      {
+        "fr": "Le préfet",
+        "ru": "Префект"
+      },
+      {
+        "fr": "La région",
+        "ru": "Регион"
+      },
+      {
+        "fr": "Le Conseil constitutionnel",
+        "ru": "Конституционный совет"
+      },
+      {
+        "fr": "Le Parlement",
+        "ru": "Парламент"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le Parlement",
+    "answer_ru": "Парламент",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №54. Правильный ответ: Парламент",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 54,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_042",
+    "collection": "mise_en_situation",
+    "source_question_id": 55,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLa séparation des pouvoirs est un principe fondamental. Quels sont les trois pouvoirs concernés ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакие три ветви власти включает принцип разделения властей?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Les pouvoirs législatif, exécutif et judiciaire",
+        "ru": "Законодательную, исполнительную и судебную власть"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Les pouvoirs législatif, exécutif et judiciaire",
+    "answer_ru": "Законодательную, исполнительную и судебную власть",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №55. Правильный ответ: Законодательную, исполнительную и судебную власть",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 55,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_043",
+    "collection": "mise_en_situation",
+    "source_question_id": 56,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce que l'État de droit ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое правовое государство?",
+    "options": [
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Un État dans lequel les pouvoirs publics et les citoyens sont soumis au droit",
+        "ru": "Государство, в котором органы власти и граждане подчиняются праву"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Un État dans lequel les pouvoirs publics et les citoyens sont soumis au droit",
+    "answer_ru": "Государство, в котором органы власти и граждане подчиняются праву",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №56. Правильный ответ: Государство, в котором органы власти и граждане подчиняются праву",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 56,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_044",
+    "collection": "mise_en_situation",
+    "source_question_id": 57,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelles sont les durées du mandat du conseil municipal et du maire ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКакова продолжительность полномочий муниципального совета и мэра?",
+    "options": [
+      {
+        "fr": "Six ans pour le conseil municipal et six ans pour le maire",
+        "ru": "Шесть лет для муниципального совета и шесть лет для мэра"
+      },
+      {
+        "fr": "Cinq ans",
+        "ru": "Пять лет"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Six ans pour le conseil municipal et six ans pour le maire",
+    "answer_ru": "Шесть лет для муниципального совета и шесть лет для мэра",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №57. Правильный ответ: Шесть лет для муниципального совета и шесть лет для мэра",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 57,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_045",
+    "collection": "mise_en_situation",
+    "source_question_id": 58,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQui est élu lors des élections législatives ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКого избирают на парламентских выборах?",
+    "options": [
+      {
+        "fr": "Les députés",
+        "ru": "Депутатов"
+      },
+      {
+        "fr": "Le préfet",
+        "ru": "Префект"
+      },
+      {
+        "fr": "Le Parlement",
+        "ru": "Парламент"
+      },
+      {
+        "fr": "La région",
+        "ru": "Регион"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Les députés",
+    "answer_ru": "Депутатов",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №58. Правильный ответ: Депутатов",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 58,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_046",
+    "collection": "mise_en_situation",
+    "source_question_id": 59,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelle est la durée du mandat du Président de la République française ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКакова продолжительность полномочий Президента Французской Республики?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Cinq ans",
+        "ru": "Пять лет"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Cinq ans",
+    "answer_ru": "Пять лет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №59. Правильный ответ: Пять лет",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 59,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_047",
+    "collection": "mise_en_situation",
+    "source_question_id": 60,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "À l'approche d'une élection, une personne vous demande comment fonctionne la règle applicable. Quelle réponse lui donnez-vous ?\n\nQuelle est la durée du mandat des députés ?",
+    "question_ru": "Перед выборами человек спрашивает вас, как действует соответствующее правило. Какой ответ вы ему дадите?\n\nКакова продолжительность полномочий депутатов?",
+    "options": [
+      {
+        "fr": "30 heures",
+        "ru": "30 часов"
+      },
+      {
+        "fr": "Sept ans",
+        "ru": "Семь лет"
+      },
+      {
+        "fr": "Six ans",
+        "ru": "Шесть лет"
+      },
+      {
+        "fr": "Cinq ans",
+        "ru": "Пять лет"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Cinq ans",
+    "answer_ru": "Пять лет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №60. Правильный ответ: Пять лет",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 60,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_048",
+    "collection": "mise_en_situation",
+    "source_question_id": 61,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuelle est la durée du mandat des sénateurs ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакова продолжительность полномочий сенаторов?",
+    "options": [
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "40 heures",
+        "ru": "40 часов"
+      },
+      {
+        "fr": "Six ans",
+        "ru": "Шесть лет"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Six ans",
+    "answer_ru": "Шесть лет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №61. Правильный ответ: Шесть лет",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 61,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_049",
+    "collection": "mise_en_situation",
+    "source_question_id": 62,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQui dirige l'action du gouvernement ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКто руководит деятельностью правительства?",
+    "options": [
+      {
+        "fr": "Le Président de la République",
+        "ru": "Президент Республики"
+      },
+      {
+        "fr": "Le Premier ministre",
+        "ru": "Премьер-министр"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Le département",
+        "ru": "Департамент"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le Premier ministre",
+    "answer_ru": "Премьер-министр",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №62. Правильный ответ: Премьер-министр",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 62,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_050",
+    "collection": "mise_en_situation",
+    "source_question_id": 63,
+    "section_fr": "Système institutionnel et politique",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEn France, est-ce possible d'adhérer à un parti politique ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nМожно ли во Франции вступить в политическую партию?",
+    "options": [
+      {
+        "fr": "Oui, uniquement pour les citoyens français",
+        "ru": "Да, только для граждан Франции"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Oui, l'adhésion à un parti politique est libre",
+        "ru": "Да, вступление в политическую партию является свободным"
+      },
+      {
+        "fr": "Non",
+        "ru": "Нет"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Oui, l'adhésion à un parti politique est libre",
+    "answer_ru": "Да, вступление в политическую партию является свободным",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №63. Правильный ответ: Да, вступление в политическую партию является свободным",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 63,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_051",
+    "collection": "mise_en_situation",
+    "source_question_id": 95,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Une situation se présente sur votre lieu de travail. Quelle règle devez-vous appliquer ?\n\nÀ quoi sert le droit de grève ?",
+    "question_ru": "На работе возникла практическая ситуация. Какое правило необходимо применить?\n\nДля чего существует право на забастовку?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Défendre des revendications professionnelles collectives",
+        "ru": "Защищать коллективные профессиональные требования"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Défendre des revendications professionnelles collectives",
+    "answer_ru": "Защищать коллективные профессиональные требования",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №95. Правильный ответ: Защищать коллективные профессиональные требования",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 95,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_052",
+    "collection": "mise_en_situation",
+    "source_question_id": 96,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nAu nom de quoi l'État justifie-t-il la restriction des droits ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nНа каком основании государство может ограничивать права?",
+    "options": [
+      {
+        "fr": "Au nom de l'ordre public et de la protection des droits d'autrui",
+        "ru": "В целях защиты общественного порядка и прав других людей"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Au nom de l'ordre public et de la protection des droits d'autrui",
+    "answer_ru": "В целях защиты общественного порядка и прав других людей",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №96. Правильный ответ: В целях защиты общественного порядка и прав других людей",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 96,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_053",
+    "collection": "mise_en_situation",
+    "source_question_id": 97,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nLaquelle de ces citations est inscrite dans la Déclaration des Droits de l'Homme et du Citoyen de 1789 ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nКакая цитата содержится в Декларации прав человека и гражданина 1789 года?",
+    "options": [
+      {
+        "fr": "« Les hommes naissent et demeurent libres et égaux en droits »",
+        "ru": "«Люди рождаются и остаются свободными и равными в правах»"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Liberté, Égalité, Fraternité",
+        "ru": "Свобода, равенство, братство"
+      },
+      {
+        "fr": "Le jour de gloire est arrivé",
+        "ru": "Настал день славы"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "« Les hommes naissent et demeurent libres et égaux en droits »",
+    "answer_ru": "«Люди рождаются и остаются свободными и равными в правах»",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №97. Правильный ответ: «Люди рождаются и остаются свободными и равными в правах»",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 97,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_054",
+    "collection": "mise_en_situation",
+    "source_question_id": 98,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nL'article 4 de la Déclaration des droits de l'homme et du citoyen affirme que « la liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui ». Qu'est-ce que cela signifie ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nЧто означает фраза: «Свобода состоит в возможности делать всё, что не причиняет вреда другим»?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Chacun est libre dans la limite des droits d'autrui et de la loi",
+        "ru": "Каждый свободен в пределах прав других людей и закона"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Chacun est libre dans la limite des droits d'autrui et de la loi",
+    "answer_ru": "Каждый свободен в пределах прав других людей и закона",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №98. Правильный ответ: Каждый свободен в пределах прав других людей и закона",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 98,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_055",
+    "collection": "mise_en_situation",
+    "source_question_id": 99,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue dit l'article 1er de la Constitution française ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто устанавливает статья 1 Конституции Франции?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "La France est une République indivisible, laïque, démocratique et sociale",
+        "ru": "Франция является неделимой, светской, демократической и социальной Республикой"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "La France est une République indivisible, laïque, démocratique et sociale",
+    "answer_ru": "Франция является неделимой, светской, демократической и социальной Республикой",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №99. Правильный ответ: Франция является неделимой, светской, демократической и социальной Республикой",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 99,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_056",
+    "collection": "mise_en_situation",
+    "source_question_id": 100,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue garantit la liberté de la presse ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто гарантирует свобода печати?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Le droit d'informer et de publier librement dans le respect de la loi",
+        "ru": "Право свободно информировать и публиковать при соблюдении закона"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le droit d'informer et de publier librement dans le respect de la loi",
+    "answer_ru": "Право свободно информировать и публиковать при соблюдении закона",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №100. Правильный ответ: Право свободно информировать и публиковать при соблюдении закона",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 100,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_057",
+    "collection": "mise_en_situation",
+    "source_question_id": 101,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue permet la liberté de circulation ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто позволяет свобода передвижения?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Se déplacer librement, quitter un pays et y revenir selon la loi",
+        "ru": "Свободно передвигаться, покидать страну и возвращаться в неё согласно закону"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Se déplacer librement, quitter un pays et y revenir selon la loi",
+    "answer_ru": "Свободно передвигаться, покидать страну и возвращаться в неё согласно закону",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №101. Правильный ответ: Свободно передвигаться, покидать страну и возвращаться в неё согласно закону",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 101,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_058",
+    "collection": "mise_en_situation",
+    "source_question_id": 102,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQue signifie être citoyen d'un État ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто означает быть гражданином государства?",
+    "options": [
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Avoir des droits et des devoirs et participer à la vie de l'État",
+        "ru": "Иметь права и обязанности и участвовать в жизни государства"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Avoir des droits et des devoirs et participer à la vie de l'État",
+    "answer_ru": "Иметь права и обязанности и участвовать в жизни государства",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №102. Правильный ответ: Иметь права и обязанности и участвовать в жизни государства",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 102,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_059",
+    "collection": "mise_en_situation",
+    "source_question_id": 103,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQue sont les droits fondamentaux ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nЧто такое основные права?",
+    "options": [
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Des droits essentiels reconnus à toute personne",
+        "ru": "Основные права, признаваемые за каждым человеком"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Des droits essentiels reconnus à toute personne",
+    "answer_ru": "Основные права, признаваемые за каждым человеком",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №103. Правильный ответ: Основные права, признаваемые за каждым человеком",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 103,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_060",
+    "collection": "mise_en_situation",
+    "source_question_id": 104,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQuel droit protège une personne contre une arrestation arbitraire ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nКакое право защищает человека от произвольного ареста?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Le droit à la liberté et à la sûreté",
+        "ru": "Право на свободу и личную неприкосновенность"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le droit à la liberté et à la sûreté",
+    "answer_ru": "Право на свободу и личную неприкосновенность",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №104. Правильный ответ: Право на свободу и личную неприкосновенность",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 104,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_061",
+    "collection": "mise_en_situation",
+    "source_question_id": 105,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQuel est le texte fondateur établissant les droits et les devoirs de chaque citoyen ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nКакой основополагающий текст устанавливает права и обязанности гражданина?",
+    "options": [
+      {
+        "fr": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+        "ru": "Декларация прав человека и гражданина 1789 года"
+      },
+      {
+        "fr": "La loi de 1905",
+        "ru": "Закон 1905 года"
+      },
+      {
+        "fr": "Le traité de Maastricht",
+        "ru": "Маастрихтский договор"
+      },
+      {
+        "fr": "La Constitution de 1958",
+        "ru": "Конституция 1958 года"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+    "answer_ru": "Декларация прав человека и гражданина 1789 года",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №105. Правильный ответ: Декларация прав человека и гражданина 1789 года",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 105,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_062",
+    "collection": "mise_en_situation",
+    "source_question_id": 106,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQuel texte affirme que tous les hommes naissent libres et égaux en droits ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nКакой текст провозглашает, что все люди рождаются свободными и равными в правах?",
+    "options": [
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+        "ru": "Декларация прав человека и гражданина 1789 года"
+      },
+      {
+        "fr": "La Constitution de 1958",
+        "ru": "Конституция 1958 года"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "La Déclaration des Droits de l'Homme et du Citoyen de 1789",
+    "answer_ru": "Декларация прав человека и гражданина 1789 года",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №106. Правильный ответ: Декларация прав человека и гражданина 1789 года",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 106,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_063",
+    "collection": "mise_en_situation",
+    "source_question_id": 107,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuelle situation est une atteinte à la dignité humaine ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакая ситуация является посягательством на человеческое достоинство?",
+    "options": [
+      {
+        "fr": "Soumettre une personne à des traitements dégradants ou inhumains",
+        "ru": "Подвергать человека унижающему достоинство или бесчеловечному обращению"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Soumettre une personne à des traitements dégradants ou inhumains",
+    "answer_ru": "Подвергать человека унижающему достоинство или бесчеловечному обращению",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №107. Правильный ответ: Подвергать человека унижающему достоинство или бесчеловечному обращению",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 107,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_064",
+    "collection": "mise_en_situation",
+    "source_question_id": 108,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce que la liberté d'expression ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое свобода выражения мнения?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Le droit d'exprimer ses opinions dans le respect de la loi",
+        "ru": "Право выражать свои мнения при соблюдении закона"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le droit d'exprimer ses opinions dans le respect de la loi",
+    "answer_ru": "Право выражать свои мнения при соблюдении закона",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №108. Правильный ответ: Право выражать свои мнения при соблюдении закона",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 108,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_065",
+    "collection": "mise_en_situation",
+    "source_question_id": 109,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nSuite à une interpellation par la police, il est possible de :",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nЧто можно сделать после задержания полицией?",
+    "options": [
+      {
+        "fr": "Contacter un avocat et informer un proche dans les conditions prévues par la loi",
+        "ru": "Связаться с адвокатом и уведомить близкого в предусмотренных законом случаях"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Contacter un avocat et informer un proche dans les conditions prévues par la loi",
+    "answer_ru": "Связаться с адвокатом и уведомить близкого в предусмотренных законом случаях",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №109. Правильный ответ: Связаться с адвокатом и уведомить близкого в предусмотренных законом случаях",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 109,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_066",
+    "collection": "mise_en_situation",
+    "source_question_id": 110,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans un service public, une discussion porte sur la religion et la laïcité. Quelle réponse respecte les principes de la République ?\n\nTous les citoyens français ont-ils une religion ?",
+    "question_ru": "В государственной службе обсуждаются религия и светскость. Какой ответ соответствует принципам Республики?\n\nВсе ли граждане Франции исповедуют религию?",
+    "options": [
+      {
+        "fr": "Oui, sans aucune condition",
+        "ru": "Да, без каких-либо условий"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Cela dépend uniquement de la décision de l'employeur",
+        "ru": "Это зависит только от решения работодателя"
+      },
+      {
+        "fr": "Non, chacun est libre de croire ou de ne pas croire",
+        "ru": "Нет, каждый свободен верить или не верить"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Non, chacun est libre de croire ou de ne pas croire",
+    "answer_ru": "Нет, каждый свободен верить или не верить",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №110. Правильный ответ: Нет, каждый свободен верить или не верить",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 110,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_067",
+    "collection": "mise_en_situation",
+    "source_question_id": 111,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nÀ quel âge est la majorité numérique en France ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nС какого возраста во Франции наступает цифровое совершеннолетие?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "De 6 ans à 16 ans",
+        "ru": "С 6 до 16 лет"
+      },
+      {
+        "fr": "15 ans pour consentir seul à certains traitements de ses données personnelles en ligne",
+        "ru": "15 лет для самостоятельного согласия на некоторые виды обработки персональных данных в интернете"
+      },
+      {
+        "fr": "À 21 ans",
+        "ru": "С 21 года"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "15 ans pour consentir seul à certains traitements de ses données personnelles en ligne",
+    "answer_ru": "15 лет для самостоятельного согласия на некоторые виды обработки персональных данных в интернете",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №111. Правильный ответ: 15 лет для самостоятельного согласия на некоторые виды обработки персональных данных в интернете",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 111,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_068",
+    "collection": "mise_en_situation",
+    "source_question_id": 112,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nDans lequel de ces endroits est-on autorisé à fumer ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nВ каком из этих мест разрешено курить?",
+    "options": [
+      {
+        "fr": "Dans un hôpital",
+        "ru": "В больнице"
+      },
+      {
+        "fr": "Dans les transports en commun",
+        "ru": "В общественном транспорте"
+      },
+      {
+        "fr": "Dans un espace extérieur où aucune interdiction particulière ne s'applique",
+        "ru": "На открытом воздухе без специального запрета"
+      },
+      {
+        "fr": "Dans une école publique",
+        "ru": "В государственной школе"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Dans un espace extérieur où aucune interdiction particulière ne s'applique",
+    "answer_ru": "На открытом воздухе, где не действует специальный запрет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №112. Правильный ответ: На открытом воздухе, где не действует специальный запрет",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 112,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_069",
+    "collection": "mise_en_situation",
+    "source_question_id": 113,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEn France, la conduite sans permis d'une moto est :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nУправление мотоциклом без водительских прав во Франции:",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Interdite et sanctionnée par la loi",
+        "ru": "Запрещено и наказывается законом"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Interdite et sanctionnée par la loi",
+    "answer_ru": "Запрещено и наказывается законом",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №113. Правильный ответ: Запрещено и наказывается законом",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 113,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_070",
+    "collection": "mise_en_situation",
+    "source_question_id": 114,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEn quoi consiste le devoir de solidarité ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nВ чём состоит обязанность солидарности?",
+    "options": [
+      {
+        "fr": "Aider les personnes en difficulté et contribuer à la solidarité nationale",
+        "ru": "Помогать людям в трудной ситуации и участвовать в национальной солидарности"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Aider les personnes en difficulté et contribuer à la solidarité nationale",
+    "answer_ru": "Помогать людям в трудной ситуации и участвовать в национальной солидарности",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №114. Правильный ответ: Помогать людям в трудной ситуации и участвовать в национальной солидарности",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 114,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_071",
+    "collection": "mise_en_situation",
+    "source_question_id": 115,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEst-ce légal d'être marié à plusieurs personnes en même temps ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЗаконно ли состоять в браке одновременно с несколькими людьми?",
+    "options": [
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Oui, sans aucune condition",
+        "ru": "Да, без каких-либо условий"
+      },
+      {
+        "fr": "Non, la polygamie est interdite en France",
+        "ru": "Нет, полигамия во Франции запрещена"
+      },
+      {
+        "fr": "Cela dépend uniquement de la décision de l'employeur",
+        "ru": "Это зависит только от решения работодателя"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Non, la polygamie est interdite en France",
+    "answer_ru": "Нет, полигамия во Франции запрещена",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №115. Правильный ответ: Нет, полигамия во Франции запрещена",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 115,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_072",
+    "collection": "mise_en_situation",
+    "source_question_id": 116,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nEst-ce obligatoire de déclarer ses impôts chaque année en France ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nОбязательно ли ежегодно подавать налоговую декларацию во Франции?",
+    "options": [
+      {
+        "fr": "Oui, uniquement pour les citoyens français",
+        "ru": "Да, только для граждан Франции"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Non",
+        "ru": "Нет"
+      },
+      {
+        "fr": "Oui, lorsqu'on est tenu de déclarer ses revenus en France",
+        "ru": "Да, если человек обязан декларировать доходы во Франции"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Oui, lorsqu'on est tenu de déclarer ses revenus en France",
+    "answer_ru": "Да, если человек обязан декларировать доходы во Франции",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №116. Правильный ответ: Да, если человек обязан декларировать доходы во Франции",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 116,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_073",
+    "collection": "mise_en_situation",
+    "source_question_id": 117,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nEst-il obligatoire de porter secours à une personne en danger ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nОбязан ли человек помочь тому, кто находится в опасности?",
+    "options": [
+      {
+        "fr": "Oui, si l'on peut agir sans danger pour soi-même ni pour autrui",
+        "ru": "Да, если можно действовать без опасности для себя и других"
+      },
+      {
+        "fr": "Oui, uniquement pour les citoyens français",
+        "ru": "Да, только для граждан Франции"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      },
+      {
+        "fr": "Non",
+        "ru": "Нет"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Oui, si l'on peut agir sans danger pour soi-même ni pour autrui",
+    "answer_ru": "Да, если можно действовать без опасности для себя и других",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №117. Правильный ответ: Да, если можно действовать без опасности для себя и других",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 117,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_074",
+    "collection": "mise_en_situation",
+    "source_question_id": 118,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nÊtre juré d'assises est :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nБыть присяжным в суде присяжных — это:",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Un devoir civique",
+        "ru": "Гражданский долг"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Un devoir civique",
+    "answer_ru": "Гражданский долг",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №118. Правильный ответ: Гражданский долг",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 118,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_075",
+    "collection": "mise_en_situation",
+    "source_question_id": 119,
+    "section_fr": "Droits et devoirs",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLa vente d'alcool en France est interdite aux personnes de moins de :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nПродажа алкоголя во Франции запрещена лицам младше:",
+    "options": [
+      {
+        "fr": "À 18 ans",
+        "ru": "С 18 лет"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "18 ans",
+        "ru": "18 лет"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "18 ans",
+    "answer_ru": "18 лет",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №119. Правильный ответ: 18 лет",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 119,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_076",
+    "collection": "mise_en_situation",
+    "source_question_id": 215,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nOù faut-il déclarer la naissance d'un enfant ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nГде необходимо зарегистрировать рождение ребёнка?",
+    "options": [
+      {
+        "fr": "La Manche",
+        "ru": "Ла-Манш"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "À la mairie du lieu de naissance",
+        "ru": "В мэрии по месту рождения"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "À la mairie du lieu de naissance",
+    "answer_ru": "В мэрии по месту рождения",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №215. Правильный ответ: В мэрии по месту рождения",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 215,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_077",
+    "collection": "mise_en_situation",
+    "source_question_id": 216,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuelle action peut réaliser le locataire d'un logement sans l'autorisation du propriétaire ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто арендатор может сделать в жилье без разрешения собственника?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Effectuer de petits aménagements, par exemple repeindre les murs, sans transformer le logement",
+        "ru": "Выполнять небольшие работы по обустройству, например перекрашивать стены, не перестраивая жильё"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Effectuer de petits aménagements, par exemple repeindre les murs, sans transformer le logement",
+    "answer_ru": "Выполнять небольшие работы по обустройству, например перекрашивать стены, не перестраивая жильё",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №216. Правильный ответ: Выполнять небольшие работы по обустройству, например перекрашивать стены, не перестраивая жильё",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 216,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_078",
+    "collection": "mise_en_situation",
+    "source_question_id": 217,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuel mariage est reconnu légalement ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакой брак юридически признаётся во Франции?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Le mariage civil célébré par un officier d'état civil",
+        "ru": "Гражданский брак, заключённый должностным лицом службы записи актов гражданского состояния"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le mariage civil célébré par un officier d'état civil",
+    "answer_ru": "Гражданский брак, заключённый должностным лицом службы записи актов гражданского состояния",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №217. Правильный ответ: Гражданский брак, заключённый должностным лицом службы записи актов гражданского состояния",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 217,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_079",
+    "collection": "mise_en_situation",
+    "source_question_id": 218,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLe stationnement sur une place réservée aux personnes handicapées :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nПарковка на месте для людей с инвалидностью:",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Est interdite sans carte autorisant ce stationnement",
+        "ru": "Запрещена без карты, разрешающей такую парковку"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Est interdite sans carte autorisant ce stationnement",
+    "answer_ru": "Запрещена без карты, разрешающей такую парковку",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №218. Правильный ответ: Запрещена без карты, разрешающей такую парковку",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 218,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_080",
+    "collection": "mise_en_situation",
+    "source_question_id": 219,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nSi une machine à laver est cassée, il est possible de :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто можно сделать, если стиральная машина сломалась?",
+    "options": [
+      {
+        "fr": "La faire réparer ou la déposer dans une filière de collecte adaptée",
+        "ru": "Отремонтировать или сдать в специальный пункт сбора"
+      },
+      {
+        "fr": "L'abandonner dans la nature",
+        "ru": "Оставить на природе"
+      },
+      {
+        "fr": "La laisser sur le trottoir sans procédure de collecte",
+        "ru": "Оставить на тротуаре без оформления вывоза"
+      },
+      {
+        "fr": "La jeter dans une poubelle ordinaire",
+        "ru": "Выбросить в обычный контейнер"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "La faire réparer ou la déposer dans une filière de collecte adaptée",
+    "answer_ru": "Отремонтировать её или передать в специализированный пункт сбора",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №219. Правильный ответ: Отремонтировать её или передать в специализированный пункт сбора",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 219,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_081",
+    "collection": "mise_en_situation",
+    "source_question_id": 220,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous vous rendez dans une mairie pour effectuer une démarche. L'agent vous pose la question suivante. Quelle réponse est correcte ?\n\nDans quel cas faut-il déclarer son enfant au service d'état civil ?",
+    "question_ru": "Вы пришли в мэрию для административной процедуры. Сотрудник задаёт следующий вопрос. Какой ответ верен?\n\nВ каком случае необходимо заявить о ребёнке в службу записи актов гражданского состояния?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Après chaque naissance",
+        "ru": "После рождения каждого ребёнка"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Après chaque naissance",
+    "answer_ru": "После рождения каждого ребёнка",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №220. Правильный ответ: После рождения каждого ребёнка",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 220,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_082",
+    "collection": "mise_en_situation",
+    "source_question_id": 221,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous vous rendez dans une mairie pour effectuer une démarche. L'agent vous pose la question suivante. Quelle réponse est correcte ?\n\nQuand faut-il déclarer son enfant au service d'état civil ?",
+    "question_ru": "Вы пришли в мэрию для административной процедуры. Сотрудник задаёт следующий вопрос. Какой ответ верен?\n\nКогда необходимо зарегистрировать рождение ребёнка?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Dans les cinq jours suivant l'accouchement",
+        "ru": "В течение пяти дней после родов"
+      },
+      {
+        "fr": "Cinq ans",
+        "ru": "Пять лет"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Dans les cinq jours suivant l'accouchement",
+    "answer_ru": "В течение пяти дней после родов",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №221. Правильный ответ: В течение пяти дней после родов",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 221,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_083",
+    "collection": "mise_en_situation",
+    "source_question_id": 222,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous êtes témoin d'une situation concernant la loi ou les droits d'une personne. Quelle réponse est juridiquement correcte ?\n\nQuel numéro d'urgence permet d'appeler la police ?",
+    "question_ru": "Вы стали свидетелем ситуации, связанной с законом или правами человека. Какой ответ юридически верен?\n\nПо какому номеру вызывают полицию?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "17",
+        "ru": "17"
+      },
+      {
+        "fr": "Le 17",
+        "ru": "17"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le 17",
+    "answer_ru": "17",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №222. Правильный ответ: 17",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 222,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_084",
+    "collection": "mise_en_situation",
+    "source_question_id": 223,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nQuel numéro d'urgence permet d'appeler le SAMU ?",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nПо какому номеру вызывают SAMU?",
+    "options": [
+      {
+        "fr": "Le 15",
+        "ru": "15"
+      },
+      {
+        "fr": "17",
+        "ru": "17"
+      },
+      {
+        "fr": "18",
+        "ru": "18"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Le 15",
+    "answer_ru": "15",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №223. Правильный ответ: 15",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 223,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_085",
+    "collection": "mise_en_situation",
+    "source_question_id": 224,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous êtes parent d'élève et l'établissement vous demande d'appliquer la règle suivante. Quelle réponse est conforme au droit français ?\n\nAuprès de quelle institution les parents peuvent inscrire leurs enfants à l'école publique ?",
+    "question_ru": "Вы являетесь родителем ученика, и школа просит применить соответствующее правило. Какой ответ соответствует французскому праву?\n\nВ какое учреждение родители обращаются для записи ребёнка в государственную школу?",
+    "options": [
+      {
+        "fr": "À la mairie de la commune",
+        "ru": "В мэрию коммуны"
+      },
+      {
+        "fr": "L'océan Atlantique",
+        "ru": "Атлантический океан"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "À la mairie de la commune",
+    "answer_ru": "В мэрию коммуны",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №224. Правильный ответ: В мэрию коммуны",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 224,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_086",
+    "collection": "mise_en_situation",
+    "source_question_id": 225,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous êtes parent d'élève et l'établissement vous demande d'appliquer la règle suivante. Quelle réponse est conforme au droit français ?\n\nEn cas de divorce, qui exerce l'autorité parentale ?",
+    "question_ru": "Вы являетесь родителем ученика, и школа просит применить соответствующее правило. Какой ответ соответствует французскому праву?\n\nКто осуществляет родительские права после развода?",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Les deux parents, en principe",
+        "ru": "Как правило, оба родителя"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Les deux parents, en principe",
+    "answer_ru": "Как правило, оба родителя",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №225. Правильный ответ: Как правило, оба родителя",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 225,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_087",
+    "collection": "mise_en_situation",
+    "source_question_id": 226,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQuelle aide permet aux personnes qui ont des difficultés financières d'avoir un avocat ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКакая помощь позволяет человеку с небольшим доходом получить адвоката?",
+    "options": [
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "L'aide juridictionnelle",
+        "ru": "Государственная юридическая помощь"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "L'aide juridictionnelle",
+    "answer_ru": "Государственная юридическая помощь",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №226. Правильный ответ: Государственная юридическая помощь",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 226,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_088",
+    "collection": "mise_en_situation",
+    "source_question_id": 227,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQui peut demander le divorce de personnes mariées ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКто может подать на развод?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "L'un des époux ou les deux époux ensemble",
+        "ru": "Один из супругов или оба супруга совместно"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "L'un des époux ou les deux époux ensemble",
+    "answer_ru": "Один из супругов или оба супруга совместно",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №227. Правильный ответ: Один из супругов или оба супруга совместно",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 227,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_089",
+    "collection": "mise_en_situation",
+    "source_question_id": 228,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nAuprès de quel organisme faut-il demander le remboursement des frais de santé ?",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nВ какую организацию обращаются за возмещением медицинских расходов?",
+    "options": [
+      {
+        "fr": "La région",
+        "ru": "Регион"
+      },
+      {
+        "fr": "Le département",
+        "ru": "Департамент"
+      },
+      {
+        "fr": "Le Parlement",
+        "ru": "Парламент"
+      },
+      {
+        "fr": "À l'Assurance Maladie, généralement la CPAM",
+        "ru": "В Assurance Maladie, обычно в CPAM"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "À l'Assurance Maladie, généralement la CPAM",
+    "answer_ru": "В Assurance Maladie, обычно в CPAM",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №228. Правильный ответ: В Assurance Maladie, обычно в CPAM",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 228,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_090",
+    "collection": "mise_en_situation",
+    "source_question_id": 229,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nLa contraception :",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nКонтрацепция:",
+    "options": [
+      {
+        "fr": "Est interdite aux personnes non mariées",
+        "ru": "Запрещена не состоящим в браке"
+      },
+      {
+        "fr": "Est un droit et relève d'un choix personnel",
+        "ru": "Является правом и личным выбором"
+      },
+      {
+        "fr": "Est réservée aux personnes ayant déjà des enfants",
+        "ru": "Только для людей с детьми"
+      },
+      {
+        "fr": "Nécessite l'autorisation de l'employeur",
+        "ru": "Требует разрешения работодателя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Est un droit et relève d'un choix personnel",
+    "answer_ru": "Является правом и личным выбором",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №229. Правильный ответ: Является правом и личным выбором",
+    "answer_cardinality": "requires_option_context",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 229,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_091",
+    "collection": "mise_en_situation",
+    "source_question_id": 230,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nQu'est-ce que le principe de confidentialité dans le domaine de la santé ?",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nЧто означает принцип конфиденциальности в здравоохранении?",
+    "options": [
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Les informations de santé du patient sont protégées par le secret médical",
+        "ru": "Сведения о здоровье пациента защищены медицинской тайной"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Les informations de santé du patient sont protégées par le secret médical",
+    "answer_ru": "Сведения о здоровье пациента защищены медицинской тайной",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №230. Правильный ответ: Сведения о здоровье пациента защищены медицинской тайной",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 230,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_092",
+    "collection": "mise_en_situation",
+    "source_question_id": 231,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nÀ quoi sert la carte Vitale ?",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nДля чего нужна карта Vitale?",
+    "options": [
+      {
+        "fr": "À transmettre les informations nécessaires au remboursement des soins",
+        "ru": "Для передачи сведений, необходимых для возмещения расходов на лечение"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "À transmettre les informations nécessaires au remboursement des soins",
+    "answer_ru": "Для передачи сведений, необходимых для возмещения расходов на лечение",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №231. Правильный ответ: Для передачи сведений, необходимых для возмещения расходов на лечение",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 231,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_093",
+    "collection": "mise_en_situation",
+    "source_question_id": 232,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nÀ quoi sert une mutuelle santé ?",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nДля чего нужна дополнительная медицинская страховка?",
+    "options": [
+      {
+        "fr": "À compléter les remboursements de l'Assurance Maladie",
+        "ru": "Чтобы дополнять возмещение расходов, выплачиваемое Assurance Maladie"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "À compléter les remboursements de l'Assurance Maladie",
+    "answer_ru": "Чтобы дополнять возмещение расходов, выплачиваемое Assurance Maladie",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №232. Правильный ответ: Чтобы дополнять возмещение расходов, выплачиваемое Assurance Maladie",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 232,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_094",
+    "collection": "mise_en_situation",
+    "source_question_id": 233,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce que le tiers payant ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое tiers payant?",
+    "options": [
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Un dispositif permettant de ne pas avancer la part des frais prise en charge",
+        "ru": "Система, позволяющая не оплачивать заранее покрываемую часть медицинских расходов"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Un dispositif permettant de ne pas avancer la part des frais prise en charge",
+    "answer_ru": "Система, позволяющая не оплачивать заранее покрываемую часть медицинских расходов",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №233. Правильный ответ: Система, позволяющая не оплачивать заранее покрываемую часть медицинских расходов",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 233,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_095",
+    "collection": "mise_en_situation",
+    "source_question_id": 234,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Vous devez accomplir une démarche liée à la santé. Quelle réponse correspond au fonctionnement du système français ?\n\nL'inscription à l'Assurance maladie est :",
+    "question_ru": "Вам необходимо выполнить действие, связанное со здравоохранением. Какой ответ соответствует французской системе?\n\nРегистрация в системе медицинского страхования:",
+    "options": [
+      {
+        "fr": "Obligatoire pour bénéficier normalement de la prise en charge des frais de santé",
+        "ru": "Обязательна для обычного получения возмещения медицинских расходов"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Obligatoire pour bénéficier normalement de la prise en charge des frais de santé",
+    "answer_ru": "Обязательна для обычного получения возмещения медицинских расходов",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №234. Правильный ответ: Обязательна для обычного получения возмещения медицинских расходов",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 234,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_096",
+    "collection": "mise_en_situation",
+    "source_question_id": 235,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nL'avortement est-il possible en France ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nРазрешён ли аборт во Франции?",
+    "options": [
+      {
+        "fr": "Non",
+        "ru": "Нет"
+      },
+      {
+        "fr": "Oui, dans les conditions prévues par la loi",
+        "ru": "Да, на условиях, предусмотренных законом"
+      },
+      {
+        "fr": "Oui, uniquement pour les citoyens français",
+        "ru": "Да, только для граждан Франции"
+      },
+      {
+        "fr": "Oui, uniquement avec l'autorisation du maire",
+        "ru": "Да, только с разрешения мэра"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Oui, dans les conditions prévues par la loi",
+    "answer_ru": "Да, на условиях, предусмотренных законом",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №235. Правильный ответ: Да, на условиях, предусмотренных законом",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 235,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_097",
+    "collection": "mise_en_situation",
+    "source_question_id": 236,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Une situation se présente sur votre lieu de travail. Quelle règle devez-vous appliquer ?\n\nTravailler sans être déclaré est :",
+    "question_ru": "На работе возникла практическая ситуация. Какое правило необходимо применить?\n\nРаботать без официального оформления — это:",
+    "options": [
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Une règle facultative sans conséquence juridique",
+        "ru": "Необязательное правило без юридических последствий"
+      },
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Interdit par la loi",
+        "ru": "Запрещено законом"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Interdit par la loi",
+    "answer_ru": "Запрещено законом",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №236. Правильный ответ: Запрещено законом",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 236,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_098",
+    "collection": "mise_en_situation",
+    "source_question_id": 237,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Dans une situation de la vie quotidienne en France, une personne vous pose la question suivante. Quelle réponse est correcte ?\n\nQu'est-ce que le SMIC ?",
+    "question_ru": "В повседневной ситуации во Франции вам задают следующий вопрос. Какой ответ является правильным?\n\nЧто такое SMIC?",
+    "options": [
+      {
+        "fr": "Une décision laissée au seul choix du maire",
+        "ru": "Решение, зависящее только от выбора мэра"
+      },
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une procédure nécessitant toujours l'autorisation de l'employeur",
+        "ru": "Процедура, всегда требующая разрешения работодателя"
+      },
+      {
+        "fr": "Le salaire minimum légal",
+        "ru": "Установленная законом минимальная заработная плата"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le salaire minimum légal",
+    "answer_ru": "Установленная законом минимальная заработная плата",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №237. Правильный ответ: Установленная законом минимальная заработная плата",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 237,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_099",
+    "collection": "mise_en_situation",
+    "source_question_id": 238,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Une situation se présente sur votre lieu de travail. Quelle règle devez-vous appliquer ?\n\nQuelle est la première démarche à réaliser pour chercher un emploi ?",
+    "question_ru": "На работе возникла практическая ситуация. Какое правило необходимо применить?\n\nКакое первое действие рекомендуется выполнить при поиске работы?",
+    "options": [
+      {
+        "fr": "Une liberté totale sans aucune limite",
+        "ru": "Абсолютная свобода без ограничений"
+      },
+      {
+        "fr": "Une mesure réservée uniquement aux citoyens de plus de 21 ans",
+        "ru": "Мера только для граждан старше 21 года"
+      },
+      {
+        "fr": "S'inscrire à France Travail",
+        "ru": "Зарегистрироваться во France Travail"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "S'inscrire à France Travail",
+    "answer_ru": "Зарегистрироваться во France Travail",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №238. Правильный ответ: Зарегистрироваться во France Travail",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 238,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  },
+  {
+    "id": "situation_100",
+    "collection": "mise_en_situation",
+    "source_question_id": 239,
+    "section_fr": "Vivre dans la société française",
+    "question_fr": "Une situation se présente sur votre lieu de travail. Quelle règle devez-vous appliquer ?\n\nQuelle est la durée légale du temps de travail par semaine ?",
+    "question_ru": "На работе возникла практическая ситуация. Какое правило необходимо применить?\n\nКакова законная продолжительность рабочей недели?",
+    "options": [
+      {
+        "fr": "Sept ans",
+        "ru": "Семь лет"
+      },
+      {
+        "fr": "35 heures",
+        "ru": "35 часов"
+      },
+      {
+        "fr": "30 heures",
+        "ru": "30 часов"
+      },
+      {
+        "fr": "Une compétence exclusive de la police",
+        "ru": "Исключительная компетенция полиции"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "35 heures",
+    "answer_ru": "35 часов",
+    "explanation_ru": "Эта ситуация проверяет правило из официального вопроса №239. Правильный ответ: 35 часов",
+    "answer_cardinality": "single",
+    "official": false,
+    "verification_status": "authored_from_official_source",
+    "sources": [
+      {
+        "source_question_id": 239,
+        "source_collection": "official",
+        "title": "Questions de connaissance pour l'examen civique — naturalisation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "bonus_001",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 1,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Le Petit Prince » ?",
+    "question_ru": "Кто написал «Маленького принца»?",
+    "options": [
+      {
+        "fr": "Guy de Maupassant",
+        "ru": "Ги де Мопассан"
+      },
+      {
+        "fr": "Émile Zola",
+        "ru": "Эмиль Золя"
+      },
+      {
+        "fr": "Marcel Proust",
+        "ru": "Марсель Пруст"
+      },
+      {
+        "fr": "Antoine de Saint-Exupéry",
+        "ru": "Антуан де Сент-Экзюпери"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Antoine de Saint-Exupéry",
+    "answer_ru": "Антуан де Сент-Экзюпери",
+    "explanation_ru": "« Le Petit Prince » a été écrit par Antoine de Saint-Exupéry.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_002",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 2,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Madame Bovary » ?",
+    "question_ru": "Кто написал роман «Госпожа Бовари»?",
+    "options": [
+      {
+        "fr": "Honoré de Balzac",
+        "ru": "Оноре де Бальзак"
+      },
+      {
+        "fr": "Victor Hugo",
+        "ru": "Виктор Гюго"
+      },
+      {
+        "fr": "Albert Camus",
+        "ru": "Альбер Камю"
+      },
+      {
+        "fr": "Gustave Flaubert",
+        "ru": "Гюстав Флобер"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Gustave Flaubert",
+    "answer_ru": "Гюстав Флобер",
+    "explanation_ru": "« Madame Bovary » est un roman de Gustave Flaubert.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_003",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 3,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Germinal » ?",
+    "question_ru": "Кто написал роман «Жерминаль»?",
+    "options": [
+      {
+        "fr": "Jean-Paul Sartre",
+        "ru": "Жан-Поль Сартр"
+      },
+      {
+        "fr": "Alexandre Dumas",
+        "ru": "Александр Дюма"
+      },
+      {
+        "fr": "Stendhal",
+        "ru": "Стендаль"
+      },
+      {
+        "fr": "Émile Zola",
+        "ru": "Эмиль Золя"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Émile Zola",
+    "answer_ru": "Эмиль Золя",
+    "explanation_ru": "« Germinal » est un roman d'Émile Zola.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_004",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 4,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Le Rouge et le Noir » ?",
+    "question_ru": "Кто написал роман «Красное и чёрное»?",
+    "options": [
+      {
+        "fr": "Pierre Corneille",
+        "ru": "Пьер Корнель"
+      },
+      {
+        "fr": "Stendhal",
+        "ru": "Стендаль"
+      },
+      {
+        "fr": "Marcel Pagnol",
+        "ru": "Марсель Паньоль"
+      },
+      {
+        "fr": "Gustave Flaubert",
+        "ru": "Гюстав Флобер"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Stendhal",
+    "answer_ru": "Стендаль",
+    "explanation_ru": "« Le Rouge et le Noir » a été écrit par Stendhal.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_005",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 5,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Les Trois Mousquetaires » ?",
+    "question_ru": "Кто написал роман «Три мушкетёра»?",
+    "options": [
+      {
+        "fr": "Alexandre Dumas",
+        "ru": "Александр Дюма"
+      },
+      {
+        "fr": "Jules Verne",
+        "ru": "Жюль Верн"
+      },
+      {
+        "fr": "Molière",
+        "ru": "Мольер"
+      },
+      {
+        "fr": "Anatole France",
+        "ru": "Анатоль Франс"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Alexandre Dumas",
+    "answer_ru": "Александр Дюма",
+    "explanation_ru": "« Les Trois Mousquetaires » est un roman d'Alexandre Dumas.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_006",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 6,
+    "topic_fr": "Littérature",
+    "question_fr": "Quel écrivain français a créé le personnage d'Arsène Lupin ?",
+    "question_ru": "Какой французский писатель создал персонажа Арсена Люпена?",
+    "options": [
+      {
+        "fr": "Romain Gary",
+        "ru": "Ромен Гари"
+      },
+      {
+        "fr": "Georges Simenon",
+        "ru": "Жорж Сименон"
+      },
+      {
+        "fr": "Maurice Leblanc",
+        "ru": "Морис Леблан"
+      },
+      {
+        "fr": "Jules Verne",
+        "ru": "Жюль Верн"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Maurice Leblanc",
+    "answer_ru": "Морис Леблан",
+    "explanation_ru": "Arsène Lupin a été créé par Maurice Leblanc.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_007",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 7,
+    "topic_fr": "Littérature",
+    "question_fr": "Qui a écrit « Vingt mille lieues sous les mers » ?",
+    "question_ru": "Кто написал «Двадцать тысяч лье под водой»?",
+    "options": [
+      {
+        "fr": "Marcel Proust",
+        "ru": "Марсель Пруст"
+      },
+      {
+        "fr": "Jules Verne",
+        "ru": "Жюль Верн"
+      },
+      {
+        "fr": "Victor Hugo",
+        "ru": "Виктор Гюго"
+      },
+      {
+        "fr": "Émile Zola",
+        "ru": "Эмиль Золя"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Jules Verne",
+    "answer_ru": "Жюль Верн",
+    "explanation_ru": "Ce roman d'aventures a été écrit par Jules Verne.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_008",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 8,
+    "topic_fr": "Littérature",
+    "question_fr": "Quel auteur français a reçu deux fois le prix Goncourt sous deux noms différents ?",
+    "question_ru": "Какой французский писатель дважды получил Гонкуровскую премию под разными именами?",
+    "options": [
+      {
+        "fr": "Romain Gary",
+        "ru": "Ромен Гари"
+      },
+      {
+        "fr": "Albert Camus",
+        "ru": "Альбер Камю"
+      },
+      {
+        "fr": "Patrick Modiano",
+        "ru": "Патрик Модиано"
+      },
+      {
+        "fr": "André Gide",
+        "ru": "Андре Жид"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Romain Gary",
+    "answer_ru": "Ромен Гари",
+    "explanation_ru": "Romain Gary a reçu le prix Goncourt sous son nom puis sous le pseudonyme Émile Ajar.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_009",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 9,
+    "topic_fr": "Peinture",
+    "question_fr": "Quel peintre français est associé au pointillisme ?",
+    "question_ru": "Какой французский художник связан с пуантилизмом?",
+    "options": [
+      {
+        "fr": "Georges Seurat",
+        "ru": "Жорж Сёра"
+      },
+      {
+        "fr": "Édouard Manet",
+        "ru": "Эдуар Мане"
+      },
+      {
+        "fr": "Paul Gauguin",
+        "ru": "Поль Гоген"
+      },
+      {
+        "fr": "Henri Matisse",
+        "ru": "Анри Матисс"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Georges Seurat",
+    "answer_ru": "Жорж Сёра",
+    "explanation_ru": "Georges Seurat est l'une des figures majeures du pointillisme.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_010",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 10,
+    "topic_fr": "Peinture",
+    "question_fr": "Quel peintre français est célèbre pour « Le Déjeuner sur l'herbe » ?",
+    "question_ru": "Какой французский художник известен картиной «Завтрак на траве»?",
+    "options": [
+      {
+        "fr": "Auguste Renoir",
+        "ru": "Огюст Ренуар"
+      },
+      {
+        "fr": "Claude Monet",
+        "ru": "Клод Моне"
+      },
+      {
+        "fr": "Paul Cézanne",
+        "ru": "Поль Сезанн"
+      },
+      {
+        "fr": "Édouard Manet",
+        "ru": "Эдуар Мане"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Édouard Manet",
+    "answer_ru": "Эдуар Мане",
+    "explanation_ru": "« Le Déjeuner sur l'herbe » est une œuvre d'Édouard Manet.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_011",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 11,
+    "topic_fr": "Peinture",
+    "question_fr": "Quel artiste français a peint « La Danse » ?",
+    "question_ru": "Какой французский художник написал картину «Танец»?",
+    "options": [
+      {
+        "fr": "Georges Braque",
+        "ru": "Жорж Брак"
+      },
+      {
+        "fr": "Henri Matisse",
+        "ru": "Анри Матисс"
+      },
+      {
+        "fr": "Camille Pissarro",
+        "ru": "Камиль Писсарро"
+      },
+      {
+        "fr": "Edgar Degas",
+        "ru": "Эдгар Дега"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Henri Matisse",
+    "answer_ru": "Анри Матисс",
+    "explanation_ru": "« La Danse » est une œuvre célèbre d'Henri Matisse.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_012",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 12,
+    "topic_fr": "Sculpture",
+    "question_fr": "Quelle œuvre célèbre a été créée par Auguste Rodin ?",
+    "question_ru": "Какое известное произведение создал Огюст Роден?",
+    "options": [
+      {
+        "fr": "La Joconde",
+        "ru": "Джоконда"
+      },
+      {
+        "fr": "Les Nymphéas",
+        "ru": "Кувшинки"
+      },
+      {
+        "fr": "Le Penseur",
+        "ru": "Мыслитель"
+      },
+      {
+        "fr": "Guernica",
+        "ru": "Герника"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le Penseur",
+    "answer_ru": "Мыслитель",
+    "explanation_ru": "« Le Penseur » est l'une des sculptures les plus célèbres d'Auguste Rodin.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_013",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 13,
+    "topic_fr": "Architecture",
+    "question_fr": "Quel architecte est associé à la pyramide du Louvre ?",
+    "question_ru": "Какой архитектор связан с пирамидой Лувра?",
+    "options": [
+      {
+        "fr": "Gustave Eiffel",
+        "ru": "Гюстав Эйфель"
+      },
+      {
+        "fr": "Jean Nouvel",
+        "ru": "Жан Нувель"
+      },
+      {
+        "fr": "Le Corbusier",
+        "ru": "Ле Корбюзье"
+      },
+      {
+        "fr": "Ieoh Ming Pei",
+        "ru": "Бэй Юймин"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Ieoh Ming Pei",
+    "answer_ru": "Бэй Юймин",
+    "explanation_ru": "La pyramide du Louvre a été conçue par l'architecte Ieoh Ming Pei.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_014",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 14,
+    "topic_fr": "Architecture",
+    "question_fr": "Quel architecte français est associé à la Cité radieuse de Marseille ?",
+    "question_ru": "Какой французский архитектор связан с «Лучезарным городом» в Марселе?",
+    "options": [
+      {
+        "fr": "Gustave Eiffel",
+        "ru": "Гюстав Эйфель"
+      },
+      {
+        "fr": "Hector Guimard",
+        "ru": "Эктор Гимар"
+      },
+      {
+        "fr": "Dominique Perrault",
+        "ru": "Доминик Перро"
+      },
+      {
+        "fr": "Le Corbusier",
+        "ru": "Ле Корбюзье"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le Corbusier",
+    "answer_ru": "Ле Корбюзье",
+    "explanation_ru": "La Cité radieuse de Marseille est une œuvre majeure de Le Corbusier.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_015",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 15,
+    "topic_fr": "Cinéma",
+    "question_fr": "Dans quelle ville se déroule le Festival de Cannes ?",
+    "question_ru": "В каком городе проходит Каннский кинофестиваль?",
+    "options": [
+      {
+        "fr": "Lyon",
+        "ru": "Лион"
+      },
+      {
+        "fr": "Cannes",
+        "ru": "Канны"
+      },
+      {
+        "fr": "Marseille",
+        "ru": "Марсель"
+      },
+      {
+        "fr": "Nice",
+        "ru": "Ницца"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Cannes",
+    "answer_ru": "Канны",
+    "explanation_ru": "Le Festival de Cannes se déroule à Cannes, sur la Côte d'Azur.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_016",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 16,
+    "topic_fr": "Cinéma",
+    "question_fr": "Comment s'appelle la principale récompense du Festival de Cannes ?",
+    "question_ru": "Как называется главная награда Каннского кинофестиваля?",
+    "options": [
+      {
+        "fr": "Le César d'or",
+        "ru": "Золотой Сезар"
+      },
+      {
+        "fr": "Le Lion d'or",
+        "ru": "Золотой лев"
+      },
+      {
+        "fr": "L'Ours d'or",
+        "ru": "Золотой медведь"
+      },
+      {
+        "fr": "La Palme d'or",
+        "ru": "Золотая пальмовая ветвь"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "La Palme d'or",
+    "answer_ru": "Золотая пальмовая ветвь",
+    "explanation_ru": "La récompense principale du Festival de Cannes est la Palme d'or.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_017",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 17,
+    "topic_fr": "Cinéma",
+    "question_fr": "Comment s'appellent les principales récompenses du cinéma français ?",
+    "question_ru": "Как называются главные французские кинопремии?",
+    "options": [
+      {
+        "fr": "Les Victoires",
+        "ru": "Виктуары"
+      },
+      {
+        "fr": "Les Molières",
+        "ru": "Мольеры"
+      },
+      {
+        "fr": "Les César",
+        "ru": "Сезары"
+      },
+      {
+        "fr": "Les Lumières européennes",
+        "ru": "Европейские Люмьеры"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Les César",
+    "answer_ru": "Сезары",
+    "explanation_ru": "Les César récompensent chaque année le cinéma français.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_018",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 18,
+    "topic_fr": "Cinéma",
+    "question_fr": "Qui a réalisé le film « Intouchables » avec Olivier Nakache ?",
+    "question_ru": "Кто вместе с Оливье Накашем снял фильм «1+1»?",
+    "options": [
+      {
+        "fr": "Luc Besson",
+        "ru": "Люк Бессон"
+      },
+      {
+        "fr": "Éric Toledano",
+        "ru": "Эрик Толедано"
+      },
+      {
+        "fr": "Jean-Pierre Jeunet",
+        "ru": "Жан-Пьер Жёне"
+      },
+      {
+        "fr": "François Truffaut",
+        "ru": "Франсуа Трюффо"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Éric Toledano",
+    "answer_ru": "Эрик Толедано",
+    "explanation_ru": "« Intouchables » a été réalisé par Olivier Nakache et Éric Toledano.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_019",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 19,
+    "topic_fr": "Cinéma",
+    "question_fr": "Quel réalisateur français a tourné « Le Fabuleux Destin d'Amélie Poulain » ?",
+    "question_ru": "Какой французский режиссёр снял фильм «Амели»?",
+    "options": [
+      {
+        "fr": "Jacques Audiard",
+        "ru": "Жак Одиар"
+      },
+      {
+        "fr": "Luc Besson",
+        "ru": "Люк Бессон"
+      },
+      {
+        "fr": "Claude Lelouch",
+        "ru": "Клод Лелуш"
+      },
+      {
+        "fr": "Jean-Pierre Jeunet",
+        "ru": "Жан-Пьер Жёне"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Jean-Pierre Jeunet",
+    "answer_ru": "Жан-Пьер Жёне",
+    "explanation_ru": "Le film a été réalisé par Jean-Pierre Jeunet.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_020",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 20,
+    "topic_fr": "Cinéma",
+    "question_fr": "Quel mouvement cinématographique français est associé à François Truffaut et Jean-Luc Godard ?",
+    "question_ru": "С каким французским кинодвижением связаны Франсуа Трюффо и Жан-Люк Годар?",
+    "options": [
+      {
+        "fr": "Le réalisme poétique",
+        "ru": "Поэтический реализм"
+      },
+      {
+        "fr": "Le cinéma vérité",
+        "ru": "Синема верите"
+      },
+      {
+        "fr": "L'expressionnisme",
+        "ru": "Экспрессионизм"
+      },
+      {
+        "fr": "La Nouvelle Vague",
+        "ru": "Новая волна"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "La Nouvelle Vague",
+    "answer_ru": "Новая волна",
+    "explanation_ru": "François Truffaut et Jean-Luc Godard sont des figures majeures de la Nouvelle Vague.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_021",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 21,
+    "topic_fr": "Musique",
+    "question_fr": "Quel compositeur français a écrit « Boléro » ?",
+    "question_ru": "Какой французский композитор написал «Болеро»?",
+    "options": [
+      {
+        "fr": "Georges Bizet",
+        "ru": "Жорж Бизе"
+      },
+      {
+        "fr": "Maurice Ravel",
+        "ru": "Морис Равель"
+      },
+      {
+        "fr": "Claude Debussy",
+        "ru": "Клод Дебюсси"
+      },
+      {
+        "fr": "Hector Berlioz",
+        "ru": "Гектор Берлиоз"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Maurice Ravel",
+    "answer_ru": "Морис Равель",
+    "explanation_ru": "« Boléro » a été composé par Maurice Ravel.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_022",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 22,
+    "topic_fr": "Musique",
+    "question_fr": "Quel compositeur français a écrit l'opéra « Carmen » ?",
+    "question_ru": "Какой французский композитор написал оперу «Кармен»?",
+    "options": [
+      {
+        "fr": "Camille Saint-Saëns",
+        "ru": "Камиль Сен-Санс"
+      },
+      {
+        "fr": "Gabriel Fauré",
+        "ru": "Габриэль Форе"
+      },
+      {
+        "fr": "Maurice Ravel",
+        "ru": "Морис Равель"
+      },
+      {
+        "fr": "Georges Bizet",
+        "ru": "Жорж Бизе"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Georges Bizet",
+    "answer_ru": "Жорж Бизе",
+    "explanation_ru": "L'opéra « Carmen » a été composé par Georges Bizet.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_023",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 23,
+    "topic_fr": "Musique",
+    "question_fr": "Quel chanteur français est surnommé « le chanteur aux mille volts » ?",
+    "question_ru": "Какого французского певца называли «певцом в тысячу вольт»?",
+    "options": [
+      {
+        "fr": "Gilbert Bécaud",
+        "ru": "Жильбер Беко"
+      },
+      {
+        "fr": "Charles Aznavour",
+        "ru": "Шарль Азнавур"
+      },
+      {
+        "fr": "Georges Brassens",
+        "ru": "Жорж Брассенс"
+      },
+      {
+        "fr": "Serge Gainsbourg",
+        "ru": "Серж Генсбур"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Gilbert Bécaud",
+    "answer_ru": "Жильбер Беко",
+    "explanation_ru": "Gilbert Bécaud était surnommé « Monsieur 100 000 volts ».",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_024",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 24,
+    "topic_fr": "Musique",
+    "question_fr": "Quelle chanteuse française a interprété « La Vie en rose » ?",
+    "question_ru": "Какая французская певица исполнила «Жизнь в розовом цвете»?",
+    "options": [
+      {
+        "fr": "Dalida",
+        "ru": "Далида"
+      },
+      {
+        "fr": "France Gall",
+        "ru": "Франс Галль"
+      },
+      {
+        "fr": "Édith Piaf",
+        "ru": "Эдит Пиаф"
+      },
+      {
+        "fr": "Barbara",
+        "ru": "Барбара"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Édith Piaf",
+    "answer_ru": "Эдит Пиаф",
+    "explanation_ru": "« La Vie en rose » est l'une des chansons les plus célèbres d'Édith Piaf.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_025",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 25,
+    "topic_fr": "Musique",
+    "question_fr": "Quel chanteur français a interprété « La Bohème » ?",
+    "question_ru": "Какой французский певец исполнил песню «Богема»?",
+    "options": [
+      {
+        "fr": "Michel Sardou",
+        "ru": "Мишель Сарду"
+      },
+      {
+        "fr": "Joe Dassin",
+        "ru": "Джо Дассен"
+      },
+      {
+        "fr": "Charles Aznavour",
+        "ru": "Шарль Азнавур"
+      },
+      {
+        "fr": "Jacques Brel",
+        "ru": "Жак Брель"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Charles Aznavour",
+    "answer_ru": "Шарль Азнавур",
+    "explanation_ru": "« La Bohème » est une chanson emblématique de Charles Aznavour.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_026",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 26,
+    "topic_fr": "Gastronomie",
+    "question_fr": "De quelle région vient traditionnellement la quiche lorraine ?",
+    "question_ru": "Из какого региона происходит киш лорен?",
+    "options": [
+      {
+        "fr": "La Lorraine",
+        "ru": "Лотарингия"
+      },
+      {
+        "fr": "L'Alsace",
+        "ru": "Эльзас"
+      },
+      {
+        "fr": "La Bretagne",
+        "ru": "Бретань"
+      },
+      {
+        "fr": "La Provence",
+        "ru": "Прованс"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "La Lorraine",
+    "answer_ru": "Лотарингия",
+    "explanation_ru": "La quiche lorraine est une spécialité traditionnelle de Lorraine.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_027",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 27,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quelle spécialité est associée à la Bretagne ?",
+    "question_ru": "Какое блюдо связано с Бретанью?",
+    "options": [
+      {
+        "fr": "La bouillabaisse",
+        "ru": "Буйабес"
+      },
+      {
+        "fr": "Les crêpes et les galettes",
+        "ru": "Блины и гречневые галеты"
+      },
+      {
+        "fr": "La choucroute",
+        "ru": "Шукрут"
+      },
+      {
+        "fr": "Le cassoulet",
+        "ru": "Кассуле"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Les crêpes et les galettes",
+    "answer_ru": "Блины и гречневые галеты",
+    "explanation_ru": "La Bretagne est particulièrement connue pour ses crêpes et ses galettes.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_028",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 28,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quelle spécialité est associée à Marseille ?",
+    "question_ru": "Какое блюдо связано с Марселем?",
+    "options": [
+      {
+        "fr": "Le bœuf bourguignon",
+        "ru": "Бёф-бургиньон"
+      },
+      {
+        "fr": "La tartiflette",
+        "ru": "Тартифлет"
+      },
+      {
+        "fr": "La bouillabaisse",
+        "ru": "Буйабес"
+      },
+      {
+        "fr": "La quiche lorraine",
+        "ru": "Киш лорен"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "La bouillabaisse",
+    "answer_ru": "Буйабес",
+    "explanation_ru": "La bouillabaisse est une spécialité emblématique de Marseille.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_029",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 29,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quelle spécialité est associée à l'Alsace ?",
+    "question_ru": "Какое блюдо связано с Эльзасом?",
+    "options": [
+      {
+        "fr": "La socca",
+        "ru": "Сокка"
+      },
+      {
+        "fr": "La choucroute",
+        "ru": "Шукрут"
+      },
+      {
+        "fr": "La ratatouille",
+        "ru": "Рататуй"
+      },
+      {
+        "fr": "Le cassoulet",
+        "ru": "Кассуле"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "La choucroute",
+    "answer_ru": "Шукрут",
+    "explanation_ru": "La choucroute garnie est une spécialité traditionnelle alsacienne.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_030",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 30,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quel fromage est originaire de Normandie ?",
+    "question_ru": "Какой сыр происходит из Нормандии?",
+    "options": [
+      {
+        "fr": "Le comté",
+        "ru": "Конте"
+      },
+      {
+        "fr": "Le camembert",
+        "ru": "Камамбер"
+      },
+      {
+        "fr": "Le reblochon",
+        "ru": "Реблошон"
+      },
+      {
+        "fr": "Le roquefort",
+        "ru": "Рокфор"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le camembert",
+    "answer_ru": "Камамбер",
+    "explanation_ru": "Le camembert est un fromage emblématique de Normandie.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_031",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 31,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quel fromage est fabriqué dans le Jura ?",
+    "question_ru": "Какой сыр производят в Юре?",
+    "options": [
+      {
+        "fr": "Le camembert",
+        "ru": "Камамбер"
+      },
+      {
+        "fr": "Le munster",
+        "ru": "Мюнстер"
+      },
+      {
+        "fr": "Le comté",
+        "ru": "Конте"
+      },
+      {
+        "fr": "Le brie de Meaux",
+        "ru": "Бри де Мо"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le comté",
+    "answer_ru": "Конте",
+    "explanation_ru": "Le comté est un fromage traditionnel du massif du Jura.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_032",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 32,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quelle pâtisserie est traditionnellement associée à Bordeaux ?",
+    "question_ru": "Какое пирожное традиционно связано с Бордо?",
+    "options": [
+      {
+        "fr": "Le kouign-amann",
+        "ru": "Куинь-аман"
+      },
+      {
+        "fr": "Le canelé",
+        "ru": "Канеле"
+      },
+      {
+        "fr": "Le Paris-Brest",
+        "ru": "Пари-Брест"
+      },
+      {
+        "fr": "La tarte Tatin",
+        "ru": "Тарт Татен"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le canelé",
+    "answer_ru": "Канеле",
+    "explanation_ru": "Le canelé est une spécialité pâtissière de Bordeaux.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_033",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 33,
+    "topic_fr": "Gastronomie",
+    "question_fr": "Quelle spécialité sucrée est associée à la Bretagne ?",
+    "question_ru": "Какая сладкая выпечка связана с Бретанью?",
+    "options": [
+      {
+        "fr": "Le calisson",
+        "ru": "Калиссон"
+      },
+      {
+        "fr": "La madeleine",
+        "ru": "Мадлен"
+      },
+      {
+        "fr": "Le kouign-amann",
+        "ru": "Куинь-аман"
+      },
+      {
+        "fr": "Le canelé",
+        "ru": "Канеле"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le kouign-amann",
+    "answer_ru": "Куинь-аман",
+    "explanation_ru": "Le kouign-amann est une pâtisserie traditionnelle bretonne.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_034",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 34,
+    "topic_fr": "Sport",
+    "question_fr": "Quel sport est associé au tournoi de Roland-Garros ?",
+    "question_ru": "С каким видом спорта связан турнир Roland-Garros?",
+    "options": [
+      {
+        "fr": "Le rugby",
+        "ru": "Регби"
+      },
+      {
+        "fr": "Le tennis",
+        "ru": "Теннис"
+      },
+      {
+        "fr": "Le cyclisme",
+        "ru": "Велоспорт"
+      },
+      {
+        "fr": "L'athlétisme",
+        "ru": "Лёгкая атлетика"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le tennis",
+    "answer_ru": "Теннис",
+    "explanation_ru": "Roland-Garros est l'un des quatre tournois du Grand Chelem de tennis.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_035",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 35,
+    "topic_fr": "Sport",
+    "question_fr": "Dans quelle ville se termine traditionnellement le Tour de France ?",
+    "question_ru": "В каком городе традиционно финиширует Тур де Франс?",
+    "options": [
+      {
+        "fr": "Marseille",
+        "ru": "Марсель"
+      },
+      {
+        "fr": "Paris",
+        "ru": "Париж"
+      },
+      {
+        "fr": "Lyon",
+        "ru": "Лион"
+      },
+      {
+        "fr": "Bordeaux",
+        "ru": "Бордо"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Paris",
+    "answer_ru": "Париж",
+    "explanation_ru": "Le Tour de France se termine traditionnellement à Paris.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_036",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 36,
+    "topic_fr": "Sport",
+    "question_fr": "Quel maillot porte le leader du classement général du Tour de France ?",
+    "question_ru": "Какую майку носит лидер общего зачёта Тур де Франс?",
+    "options": [
+      {
+        "fr": "Le maillot jaune",
+        "ru": "Жёлтую майку"
+      },
+      {
+        "fr": "Le maillot à pois",
+        "ru": "Гороховую майку"
+      },
+      {
+        "fr": "Le maillot vert",
+        "ru": "Зелёную майку"
+      },
+      {
+        "fr": "Le maillot blanc",
+        "ru": "Белую майку"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Le maillot jaune",
+    "answer_ru": "Жёлтую майку",
+    "explanation_ru": "Le leader du classement général porte le maillot jaune.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_037",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 37,
+    "topic_fr": "Sport",
+    "question_fr": "Combien de joueurs une équipe de football aligne-t-elle normalement sur le terrain ?",
+    "question_ru": "Сколько игроков футбольная команда обычно выпускает на поле?",
+    "options": [
+      {
+        "fr": "12",
+        "ru": "12"
+      },
+      {
+        "fr": "9",
+        "ru": "9"
+      },
+      {
+        "fr": "10",
+        "ru": "10"
+      },
+      {
+        "fr": "11",
+        "ru": "11"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "11",
+    "answer_ru": "11",
+    "explanation_ru": "Une équipe de football joue normalement avec onze joueurs sur le terrain.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_038",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 38,
+    "topic_fr": "Sport",
+    "question_fr": "Quel sport est particulièrement populaire dans le sud-ouest de la France ?",
+    "question_ru": "Какой вид спорта особенно популярен на юго-западе Франции?",
+    "options": [
+      {
+        "fr": "Le hockey sur glace",
+        "ru": "Хоккей"
+      },
+      {
+        "fr": "Le baseball",
+        "ru": "Бейсбол"
+      },
+      {
+        "fr": "Le rugby",
+        "ru": "Регби"
+      },
+      {
+        "fr": "Le cricket",
+        "ru": "Крикет"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le rugby",
+    "answer_ru": "Регби",
+    "explanation_ru": "Le rugby occupe une place importante dans le sud-ouest de la France.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_039",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 39,
+    "topic_fr": "Sport",
+    "question_fr": "Quel stade parisien accueille traditionnellement la finale de la Coupe de France de football ?",
+    "question_ru": "Какой парижский стадион традиционно принимает финал Кубка Франции по футболу?",
+    "options": [
+      {
+        "fr": "Le stade Vélodrome",
+        "ru": "Велодром"
+      },
+      {
+        "fr": "Le Parc des Princes",
+        "ru": "Парк де Пренс"
+      },
+      {
+        "fr": "Le Groupama Stadium",
+        "ru": "Групама Стэдиум"
+      },
+      {
+        "fr": "Le Stade de France",
+        "ru": "Стад де Франс"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le Stade de France",
+    "answer_ru": "Стад де Франс",
+    "explanation_ru": "La finale de la Coupe de France se joue traditionnellement au Stade de France.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_040",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 40,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Dans quelle ville se trouve la cathédrale Notre-Dame de Reims ?",
+    "question_ru": "В каком городе находится собор Нотр-Дам-де-Реймс?",
+    "options": [
+      {
+        "fr": "Chartres",
+        "ru": "Шартр"
+      },
+      {
+        "fr": "Amiens",
+        "ru": "Амьен"
+      },
+      {
+        "fr": "Rouen",
+        "ru": "Руан"
+      },
+      {
+        "fr": "Reims",
+        "ru": "Реймс"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Reims",
+    "answer_ru": "Реймс",
+    "explanation_ru": "La cathédrale Notre-Dame de Reims se trouve à Reims.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_041",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 41,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Dans quelle ville se trouve le palais des Papes ?",
+    "question_ru": "В каком городе находится Папский дворец?",
+    "options": [
+      {
+        "fr": "Nîmes",
+        "ru": "Ним"
+      },
+      {
+        "fr": "Arles",
+        "ru": "Арль"
+      },
+      {
+        "fr": "Avignon",
+        "ru": "Авиньон"
+      },
+      {
+        "fr": "Orange",
+        "ru": "Оранж"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Avignon",
+    "answer_ru": "Авиньон",
+    "explanation_ru": "Le palais des Papes se trouve à Avignon.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_042",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 42,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Quel monument romain se trouve à Nîmes ?",
+    "question_ru": "Какой римский памятник находится в Ниме?",
+    "options": [
+      {
+        "fr": "Le Parthénon",
+        "ru": "Парфенон"
+      },
+      {
+        "fr": "L'Alhambra",
+        "ru": "Альгамбра"
+      },
+      {
+        "fr": "Le Colisée",
+        "ru": "Колизей"
+      },
+      {
+        "fr": "Les arènes de Nîmes",
+        "ru": "Арены Нима"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Les arènes de Nîmes",
+    "answer_ru": "Арены Нима",
+    "explanation_ru": "Les arènes de Nîmes sont un amphithéâtre romain remarquablement conservé.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_043",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 43,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Dans quelle région se trouve le château de Chambord ?",
+    "question_ru": "В каком регионе находится замок Шамбор?",
+    "options": [
+      {
+        "fr": "Bretagne",
+        "ru": "Бретань"
+      },
+      {
+        "fr": "Normandie",
+        "ru": "Нормандия"
+      },
+      {
+        "fr": "Grand Est",
+        "ru": "Гранд-Эст"
+      },
+      {
+        "fr": "Centre-Val de Loire",
+        "ru": "Центр — Долина Луары"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Centre-Val de Loire",
+    "answer_ru": "Центр — Долина Луары",
+    "explanation_ru": "Le château de Chambord se trouve dans la région Centre-Val de Loire.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_044",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 44,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Quel fleuve traverse la ville de Bordeaux ?",
+    "question_ru": "Какая река протекает через Бордо?",
+    "options": [
+      {
+        "fr": "La Seine",
+        "ru": "Сена"
+      },
+      {
+        "fr": "La Loire",
+        "ru": "Луара"
+      },
+      {
+        "fr": "La Garonne",
+        "ru": "Гаронна"
+      },
+      {
+        "fr": "Le Rhône",
+        "ru": "Рона"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "La Garonne",
+    "answer_ru": "Гаронна",
+    "explanation_ru": "Bordeaux est traversée par la Garonne.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_045",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 45,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Quel fleuve traverse Lyon ?",
+    "question_ru": "Какая река протекает через Лион?",
+    "options": [
+      {
+        "fr": "La Garonne et le Lot",
+        "ru": "Гаронна и Ло"
+      },
+      {
+        "fr": "La Seine et la Marne",
+        "ru": "Сена и Марна"
+      },
+      {
+        "fr": "La Loire et le Cher",
+        "ru": "Луара и Шер"
+      },
+      {
+        "fr": "Le Rhône et la Saône",
+        "ru": "Рона и Сона"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le Rhône et la Saône",
+    "answer_ru": "Рона и Сона",
+    "explanation_ru": "Lyon se situe au confluent du Rhône et de la Saône.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_046",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 46,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Dans quelle région française se trouve la dune du Pilat ?",
+    "question_ru": "В каком французском регионе находится дюна Пила?",
+    "options": [
+      {
+        "fr": "Normandie",
+        "ru": "Нормандия"
+      },
+      {
+        "fr": "Occitanie",
+        "ru": "Окситания"
+      },
+      {
+        "fr": "Nouvelle-Aquitaine",
+        "ru": "Новая Аквитания"
+      },
+      {
+        "fr": "Bretagne",
+        "ru": "Бретань"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Nouvelle-Aquitaine",
+    "answer_ru": "Новая Аквитания",
+    "explanation_ru": "La dune du Pilat se trouve en Nouvelle-Aquitaine, près du bassin d'Arcachon.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_047",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 47,
+    "topic_fr": "Patrimoine",
+    "question_fr": "Quel massif montagneux se trouve principalement en Auvergne ?",
+    "question_ru": "Какой горный массив находится главным образом в Оверни?",
+    "options": [
+      {
+        "fr": "Les Vosges",
+        "ru": "Вогезы"
+      },
+      {
+        "fr": "Les Ardennes",
+        "ru": "Арденны"
+      },
+      {
+        "fr": "Le Jura",
+        "ru": "Юра"
+      },
+      {
+        "fr": "Le Massif central",
+        "ru": "Центральный массив"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Le Massif central",
+    "answer_ru": "Центральный массив",
+    "explanation_ru": "L'Auvergne se situe au cœur du Massif central.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_048",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 48,
+    "topic_fr": "Traditions",
+    "question_fr": "À quelle date célèbre-t-on traditionnellement la Fête de la musique en France ?",
+    "question_ru": "Какого числа во Франции традиционно отмечают Праздник музыки?",
+    "options": [
+      {
+        "fr": "Le 1er mai",
+        "ru": "1 мая"
+      },
+      {
+        "fr": "Le 14 juillet",
+        "ru": "14 июля"
+      },
+      {
+        "fr": "Le 21 juin",
+        "ru": "21 июня"
+      },
+      {
+        "fr": "Le 25 décembre",
+        "ru": "25 декабря"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le 21 juin",
+    "answer_ru": "21 июня",
+    "explanation_ru": "La Fête de la musique est célébrée chaque année le 21 juin.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_049",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 49,
+    "topic_fr": "Traditions",
+    "question_fr": "Quelle fête est célébrée le 2 février avec des crêpes ?",
+    "question_ru": "Какой праздник отмечают 2 февраля блинами?",
+    "options": [
+      {
+        "fr": "La Pentecôte",
+        "ru": "Пятидесятница"
+      },
+      {
+        "fr": "La Chandeleur",
+        "ru": "Сретение / Шанделер"
+      },
+      {
+        "fr": "La Toussaint",
+        "ru": "День всех святых"
+      },
+      {
+        "fr": "L'Épiphanie",
+        "ru": "Богоявление"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "La Chandeleur",
+    "answer_ru": "Сретение / Шанделер",
+    "explanation_ru": "À la Chandeleur, le 2 février, il est traditionnel de préparer des crêpes.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_050",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 50,
+    "topic_fr": "Traditions",
+    "question_fr": "Quelle pâtisserie mange-t-on traditionnellement à l'Épiphanie ?",
+    "question_ru": "Какую выпечку традиционно едят на Богоявление?",
+    "options": [
+      {
+        "fr": "La bûche de Noël",
+        "ru": "Рождественское полено"
+      },
+      {
+        "fr": "La galette des rois",
+        "ru": "Галету королей"
+      },
+      {
+        "fr": "Le clafoutis",
+        "ru": "Клафути"
+      },
+      {
+        "fr": "Le mille-feuille",
+        "ru": "Мильфей"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "La galette des rois",
+    "answer_ru": "Галету королей",
+    "explanation_ru": "La galette des rois est traditionnellement partagée à l'Épiphanie.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_051",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 51,
+    "topic_fr": "Traditions",
+    "question_fr": "Quelle fête nationale a lieu le 14 juillet ?",
+    "question_ru": "Какой национальный праздник отмечается 14 июля?",
+    "options": [
+      {
+        "fr": "La Fête de la musique",
+        "ru": "Праздник музыки"
+      },
+      {
+        "fr": "La Toussaint",
+        "ru": "День всех святых"
+      },
+      {
+        "fr": "La Fête nationale française",
+        "ru": "Национальный праздник Франции"
+      },
+      {
+        "fr": "La Journée de l'Europe",
+        "ru": "День Европы"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "La Fête nationale française",
+    "answer_ru": "Национальный праздник Франции",
+    "explanation_ru": "Le 14 juillet est la Fête nationale française.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_052",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 52,
+    "topic_fr": "Institutions culturelles",
+    "question_fr": "Quelle institution protège et valorise la langue française ?",
+    "question_ru": "Какое учреждение защищает и поддерживает французский язык?",
+    "options": [
+      {
+        "fr": "Le Conseil constitutionnel",
+        "ru": "Конституционный совет"
+      },
+      {
+        "fr": "L'Académie française",
+        "ru": "Французская академия"
+      },
+      {
+        "fr": "La Cour des comptes",
+        "ru": "Счётная палата"
+      },
+      {
+        "fr": "La Banque de France",
+        "ru": "Банк Франции"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "L'Académie française",
+    "answer_ru": "Французская академия",
+    "explanation_ru": "L'Académie française travaille notamment sur la langue française et son dictionnaire.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_053",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 53,
+    "topic_fr": "Institutions culturelles",
+    "question_fr": "Quel musée parisien est installé dans une ancienne gare ?",
+    "question_ru": "Какой парижский музей расположен в здании бывшего вокзала?",
+    "options": [
+      {
+        "fr": "Le Centre Pompidou",
+        "ru": "Центр Помпиду"
+      },
+      {
+        "fr": "Le musée d'Orsay",
+        "ru": "Музей Орсе"
+      },
+      {
+        "fr": "Le musée de l'Orangerie",
+        "ru": "Музей Оранжери"
+      },
+      {
+        "fr": "Le musée Rodin",
+        "ru": "Музей Родена"
+      }
+    ],
+    "correct_option_index": 1,
+    "answer_fr": "Le musée d'Orsay",
+    "answer_ru": "Музей Орсе",
+    "explanation_ru": "Le musée d'Orsay occupe l'ancienne gare d'Orsay.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_054",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 54,
+    "topic_fr": "Institutions culturelles",
+    "question_fr": "Quel musée parisien est consacré principalement à l'art moderne et contemporain ?",
+    "question_ru": "Какой парижский музей главным образом посвящён современному искусству?",
+    "options": [
+      {
+        "fr": "Le musée de l'Armée",
+        "ru": "Музей армии"
+      },
+      {
+        "fr": "Le musée de Cluny",
+        "ru": "Музей Клюни"
+      },
+      {
+        "fr": "Le Centre Pompidou",
+        "ru": "Центр Помпиду"
+      },
+      {
+        "fr": "Le musée Carnavalet",
+        "ru": "Музей Карнавале"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Le Centre Pompidou",
+    "answer_ru": "Центр Помпиду",
+    "explanation_ru": "Le Centre Pompidou abrite notamment le Musée national d'art moderne.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_055",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 55,
+    "topic_fr": "Institutions culturelles",
+    "question_fr": "Quel monument parisien abrite le tombeau de Napoléon Ier ?",
+    "question_ru": "В каком парижском памятнике находится гробница Наполеона I?",
+    "options": [
+      {
+        "fr": "Les Invalides",
+        "ru": "Дом инвалидов"
+      },
+      {
+        "fr": "L'Arc de Triomphe",
+        "ru": "Триумфальная арка"
+      },
+      {
+        "fr": "La Conciergerie",
+        "ru": "Консьержери"
+      },
+      {
+        "fr": "Le Panthéon",
+        "ru": "Пантеон"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Les Invalides",
+    "answer_ru": "Дом инвалидов",
+    "explanation_ru": "Le tombeau de Napoléon Ier se trouve sous le dôme des Invalides.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_056",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 56,
+    "topic_fr": "Sciences",
+    "question_fr": "Quel scientifique français a mis au point le vaccin contre la rage ?",
+    "question_ru": "Какой французский учёный разработал вакцину против бешенства?",
+    "options": [
+      {
+        "fr": "Louis Pasteur",
+        "ru": "Луи Пастер"
+      },
+      {
+        "fr": "René Descartes",
+        "ru": "Рене Декарт"
+      },
+      {
+        "fr": "André-Marie Ampère",
+        "ru": "Андре-Мари Ампер"
+      },
+      {
+        "fr": "Blaise Pascal",
+        "ru": "Блез Паскаль"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "Louis Pasteur",
+    "answer_ru": "Луи Пастер",
+    "explanation_ru": "Louis Pasteur a mis au point le premier vaccin efficace contre la rage.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_057",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 57,
+    "topic_fr": "Sciences",
+    "question_fr": "Quel mathématicien et philosophe français a donné son nom à une unité de pression ?",
+    "question_ru": "Какой французский математик и философ дал имя единице давления?",
+    "options": [
+      {
+        "fr": "Louis Pasteur",
+        "ru": "Луи Пастер"
+      },
+      {
+        "fr": "Pierre Curie",
+        "ru": "Пьер Кюри"
+      },
+      {
+        "fr": "Blaise Pascal",
+        "ru": "Блез Паскаль"
+      },
+      {
+        "fr": "Henri Becquerel",
+        "ru": "Анри Беккерель"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Blaise Pascal",
+    "answer_ru": "Блез Паскаль",
+    "explanation_ru": "L'unité de pression pascal porte le nom de Blaise Pascal.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_058",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 58,
+    "topic_fr": "Sciences",
+    "question_fr": "Quel inventeur français est associé au système d'écriture pour les personnes aveugles ?",
+    "question_ru": "Какой французский изобретатель связан с системой письма для незрячих?",
+    "options": [
+      {
+        "fr": "Clément Ader",
+        "ru": "Клеман Адер"
+      },
+      {
+        "fr": "Denis Papin",
+        "ru": "Дени Папен"
+      },
+      {
+        "fr": "Louis Daguerre",
+        "ru": "Луи Дагер"
+      },
+      {
+        "fr": "Louis Braille",
+        "ru": "Луи Брайль"
+      }
+    ],
+    "correct_option_index": 3,
+    "answer_fr": "Louis Braille",
+    "answer_ru": "Луи Брайль",
+    "explanation_ru": "Louis Braille a créé le système d'écriture tactile qui porte son nom.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_059",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 59,
+    "topic_fr": "Sciences",
+    "question_fr": "Quel physicien français a donné son nom à l'unité d'intensité électrique ?",
+    "question_ru": "Какой французский физик дал имя единице силы электрического тока?",
+    "options": [
+      {
+        "fr": "André-Marie Ampère",
+        "ru": "Андре-Мари Ампер"
+      },
+      {
+        "fr": "Blaise Pascal",
+        "ru": "Блез Паскаль"
+      },
+      {
+        "fr": "Henri Becquerel",
+        "ru": "Анри Беккерель"
+      },
+      {
+        "fr": "Léon Foucault",
+        "ru": "Леон Фуко"
+      }
+    ],
+    "correct_option_index": 0,
+    "answer_fr": "André-Marie Ampère",
+    "answer_ru": "Андре-Мари Ампер",
+    "explanation_ru": "L'ampère porte le nom du physicien André-Marie Ampère.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  },
+  {
+    "id": "bonus_060",
+    "collection": "bonus_culture",
+    "official": false,
+    "bonus_number": 60,
+    "topic_fr": "Sciences",
+    "question_fr": "Quel savant français a découvert la radioactivité naturelle ?",
+    "question_ru": "Какой французский учёный открыл естественную радиоактивность?",
+    "options": [
+      {
+        "fr": "Louis Pasteur",
+        "ru": "Луи Пастер"
+      },
+      {
+        "fr": "Blaise Pascal",
+        "ru": "Блез Паскаль"
+      },
+      {
+        "fr": "Henri Becquerel",
+        "ru": "Анри Беккерель"
+      },
+      {
+        "fr": "André-Marie Ampère",
+        "ru": "Андре-Мари Ампер"
+      }
+    ],
+    "correct_option_index": 2,
+    "answer_fr": "Henri Becquerel",
+    "answer_ru": "Анри Беккерель",
+    "explanation_ru": "Henri Becquerel a découvert la radioactivité naturelle en 1896.",
+    "verification_status": "verified_bonus",
+    "sources": [],
+    "note_ru": "Вопрос относится к дополнительному блоку и не входит в официальный перечень 258 вопросов."
+  }
+]
