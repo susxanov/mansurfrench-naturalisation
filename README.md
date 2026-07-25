@@ -22,7 +22,7 @@ bonus_culture_60.json
 ## Команды администратора
 
 - `/status` — состояние цикла;
-- `/force 5` — немедленно отправить до 5 вопросов;
+- `/force 3` — немедленно отправить до 3 вопросов;
 - `/reset_cycle` — начать новый цикл с первого официального вопроса.
 
 ## Railway Variables
@@ -35,7 +35,7 @@ DATABASE_URL
 TIMEZONE=Europe/Paris
 MORNING_TIME=09:00
 EVENING_TIME=19:30
-QUESTIONS_PER_BLOCK=5
+QUESTIONS_PER_BLOCK=3
 ACTIVE_COLLECTIONS=official,mise_en_situation,bonus_culture
 CYCLE_MODE=loop
 ```
